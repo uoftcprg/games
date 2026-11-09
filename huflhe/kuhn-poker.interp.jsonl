@@ -1,0 +1,12 @@
+{"decision_point": "Js:", "actions": ["c", "r"]}
+{"decision_point": "Js:cr", "actions": ["f", "c"]}
+{"decision_point": "Qs:", "actions": ["c", "r"]}
+{"decision_point": "Qs:cr", "actions": ["f", "c"]}
+{"decision_point": "Ks:", "actions": ["c", "r"]}
+{"decision_point": "Ks:cr", "actions": ["f", "c"]}
+{"decision_point": "Qs:r", "actions": ["f", "c"]}
+{"decision_point": "Qs:c", "actions": ["c", "r"]}
+{"decision_point": "Ks:r", "actions": ["f", "c"]}
+{"decision_point": "Ks:c", "actions": ["c", "r"]}
+{"decision_point": "Js:r", "actions": ["f", "c"]}
+{"decision_point": "Js:c", "actions": ["c", "r"]}

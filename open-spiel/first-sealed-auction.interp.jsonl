@@ -1,0 +1,20 @@
+{"decision_point": "p0 val 10", "actions": ["Player 0 bid: 0", "Player 0 bid: 1", "Player 0 bid: 2", "Player 0 bid: 3", "Player 0 bid: 4", "Player 0 bid: 5", "Player 0 bid: 6", "Player 0 bid: 7", "Player 0 bid: 8", "Player 0 bid: 9"]}
+{"decision_point": "p0 val 9", "actions": ["Player 0 bid: 0", "Player 0 bid: 1", "Player 0 bid: 2", "Player 0 bid: 3", "Player 0 bid: 4", "Player 0 bid: 5", "Player 0 bid: 6", "Player 0 bid: 7", "Player 0 bid: 8"]}
+{"decision_point": "p0 val 8", "actions": ["Player 0 bid: 0", "Player 0 bid: 1", "Player 0 bid: 2", "Player 0 bid: 3", "Player 0 bid: 4", "Player 0 bid: 5", "Player 0 bid: 6", "Player 0 bid: 7"]}
+{"decision_point": "p0 val 7", "actions": ["Player 0 bid: 0", "Player 0 bid: 1", "Player 0 bid: 2", "Player 0 bid: 3", "Player 0 bid: 4", "Player 0 bid: 5", "Player 0 bid: 6"]}
+{"decision_point": "p0 val 6", "actions": ["Player 0 bid: 0", "Player 0 bid: 1", "Player 0 bid: 2", "Player 0 bid: 3", "Player 0 bid: 4", "Player 0 bid: 5"]}
+{"decision_point": "p0 val 5", "actions": ["Player 0 bid: 0", "Player 0 bid: 1", "Player 0 bid: 2", "Player 0 bid: 3", "Player 0 bid: 4"]}
+{"decision_point": "p0 val 4", "actions": ["Player 0 bid: 0", "Player 0 bid: 1", "Player 0 bid: 2", "Player 0 bid: 3"]}
+{"decision_point": "p0 val 3", "actions": ["Player 0 bid: 0", "Player 0 bid: 1", "Player 0 bid: 2"]}
+{"decision_point": "p0 val 2", "actions": ["Player 0 bid: 0", "Player 0 bid: 1"]}
+{"decision_point": "p0 val 1", "actions": ["Player 0 bid: 0"]}
+{"decision_point": "p1 val 10", "actions": ["Player 1 bid: 0", "Player 1 bid: 1", "Player 1 bid: 2", "Player 1 bid: 3", "Player 1 bid: 4", "Player 1 bid: 5", "Player 1 bid: 6", "Player 1 bid: 7", "Player 1 bid: 8", "Player 1 bid: 9"]}
+{"decision_point": "p1 val 9", "actions": ["Player 1 bid: 0", "Player 1 bid: 1", "Player 1 bid: 2", "Player 1 bid: 3", "Player 1 bid: 4", "Player 1 bid: 5", "Player 1 bid: 6", "Player 1 bid: 7", "Player 1 bid: 8"]}
+{"decision_point": "p1 val 8", "actions": ["Player 1 bid: 0", "Player 1 bid: 1", "Player 1 bid: 2", "Player 1 bid: 3", "Player 1 bid: 4", "Player 1 bid: 5", "Player 1 bid: 6", "Player 1 bid: 7"]}
+{"decision_point": "p1 val 7", "actions": ["Player 1 bid: 0", "Player 1 bid: 1", "Player 1 bid: 2", "Player 1 bid: 3", "Player 1 bid: 4", "Player 1 bid: 5", "Player 1 bid: 6"]}
+{"decision_point": "p1 val 6", "actions": ["Player 1 bid: 0", "Player 1 bid: 1", "Player 1 bid: 2", "Player 1 bid: 3", "Player 1 bid: 4", "Player 1 bid: 5"]}
+{"decision_point": "p1 val 5", "actions": ["Player 1 bid: 0", "Player 1 bid: 1", "Player 1 bid: 2", "Player 1 bid: 3", "Player 1 bid: 4"]}
+{"decision_point": "p1 val 4", "actions": ["Player 1 bid: 0", "Player 1 bid: 1", "Player 1 bid: 2", "Player 1 bid: 3"]}
+{"decision_point": "p1 val 3", "actions": ["Player 1 bid: 0", "Player 1 bid: 1", "Player 1 bid: 2"]}
+{"decision_point": "p1 val 2", "actions": ["Player 1 bid: 0", "Player 1 bid: 1"]}
+{"decision_point": "p1 val 1", "actions": ["Player 1 bid: 0"]}

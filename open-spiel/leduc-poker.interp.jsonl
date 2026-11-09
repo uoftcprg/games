@@ -1,0 +1,936 @@
+{"decision_point": "[Observer: 0][Private: 5][Round 1][Player: 0][Pot: 2][Money: 99 99][Round1: ][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 1][Player: 0][Pot: 8][Money: 97 95][Round1: 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 1][Player: 0][Pot: 4][Money: 99 97][Round1: 1 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 3][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 2][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 1][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 0][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 5][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 4][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 1][Player: 0][Pot: 2][Money: 99 99][Round1: ][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 1][Player: 0][Pot: 8][Money: 97 95][Round1: 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 1][Player: 0][Pot: 4][Money: 99 97][Round1: 1 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 3][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 2][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 1][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 0][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 4][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 5][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 1][Player: 0][Pot: 2][Money: 99 99][Round1: ][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 1][Player: 0][Pot: 8][Money: 97 95][Round1: 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 1][Player: 0][Pot: 4][Money: 99 97][Round1: 1 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 4][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 2][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 1][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 0][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 3][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 5][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 1][Player: 0][Pot: 2][Money: 99 99][Round1: ][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 1][Player: 0][Pot: 8][Money: 97 95][Round1: 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 1][Player: 0][Pot: 4][Money: 99 97][Round1: 1 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 4][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 3][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 1][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 0][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 2][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 5][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 1][Player: 0][Pot: 2][Money: 99 99][Round1: ][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 1][Player: 0][Pot: 8][Money: 97 95][Round1: 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 1][Player: 0][Pot: 4][Money: 99 97][Round1: 1 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 0][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 0][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 0][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 4][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 3][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 2][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 0][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 0][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 1][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 5][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 1][Player: 0][Pot: 2][Money: 99 99][Round1: ][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 1][Player: 0][Pot: 8][Money: 97 95][Round1: 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 1][Player: 0][Pot: 4][Money: 99 97][Round1: 1 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 4][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 3][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 2][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 1][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 4][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 4][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 3][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 3][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 2][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 2][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 1][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 1][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 4][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 4][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 3][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 3][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 2][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 2][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 1][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 1][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 22][Money: 91 87][Public: 5][Round1: 1 2 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 18][Money: 93 89][Public: 5][Round1: 1 2 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 10][Money: 97 93][Public: 5][Round1: 1 2 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 14][Money: 95 91][Public: 5][Round1: 1 1][Round2: 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 0][Private: 0][Round 2][Player: 0][Pot: 6][Money: 99 95][Public: 5][Round1: 1 1][Round2: 1 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 1][Player: 1][Pot: 4][Money: 97 99][Round1: 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 1][Player: 1][Pot: 2][Money: 99 99][Round1: 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 1][Player: 1][Pot: 8][Money: 95 97][Round1: 1 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 3][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 2][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 1][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 0][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 1][Player: 1][Pot: 4][Money: 97 99][Round1: 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 1][Player: 1][Pot: 2][Money: 99 99][Round1: 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 1][Player: 1][Pot: 8][Money: 95 97][Round1: 1 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 4][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 2][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 1][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 0][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 1][Player: 1][Pot: 4][Money: 97 99][Round1: 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 1][Player: 1][Pot: 2][Money: 99 99][Round1: 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 1][Player: 1][Pot: 8][Money: 95 97][Round1: 1 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 4][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 3][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 1][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 0][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 1][Player: 1][Pot: 4][Money: 97 99][Round1: 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 1][Player: 1][Pot: 2][Money: 99 99][Round1: 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 1][Player: 1][Pot: 8][Money: 95 97][Round1: 1 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 4][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 3][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 2][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 0][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 1][Player: 1][Pot: 4][Money: 97 99][Round1: 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 1][Player: 1][Pot: 2][Money: 99 99][Round1: 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 1][Player: 1][Pot: 8][Money: 95 97][Round1: 1 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 4][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 3][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 2][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 1][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 1][Player: 1][Pot: 4][Money: 97 99][Round1: 2][Round2: ]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 1][Player: 1][Pot: 2][Money: 99 99][Round1: 1][Round2: ]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 1][Player: 1][Pot: 8][Money: 95 97][Round1: 1 2 2][Round2: ]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 3][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 3][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 2][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 2][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 1][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 1][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 0][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 0][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 3][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 3][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 3][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 2][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 2][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 2][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 1][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 1][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 1][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 0][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 0][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 0][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 3][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 3][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 3][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 2][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 2][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 2][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 1][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 1][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 1][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 0][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 0][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 0][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 5][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 3][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 5][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 2][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 5][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 1][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 5][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 0][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 4][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 4][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 4][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 4][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 4][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 4][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 4][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 5][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 4][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 2 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 95 95][Public: 5][Round1: 1 2 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 22][Money: 87 91][Public: 5][Round1: 1 2 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 10][Money: 93 97][Public: 5][Round1: 1 2 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 97 97][Public: 5][Round1: 1 2 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 18][Money: 89 93][Public: 5][Round1: 1 2 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 6][Money: 95 99][Public: 5][Round1: 1 1][Round2: 2]", "actions": ["Fold", "Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 2][Money: 99 99][Public: 5][Round1: 1 1][Round2: 1]", "actions": ["Call", "Raise"]}
+{"decision_point": "[Observer: 1][Private: 4][Round 2][Player: 1][Pot: 14][Money: 91 95][Public: 5][Round1: 1 1][Round2: 1 2 2]", "actions": ["Fold", "Call"]}

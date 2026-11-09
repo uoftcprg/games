@@ -1,0 +1,936 @@
+{"decision_point": "Jh:", "actions": ["c", "r"]}
+{"decision_point": "Jh:rr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:rc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:cr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:crc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:cc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:rrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:rc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:crrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:crc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:cc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:rc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:crc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:cc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:rrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:rc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:crrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:crc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:cc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:rrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:rc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:crrc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:crc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:cc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:", "actions": ["c", "r"]}
+{"decision_point": "Js:rr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:rc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:cr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:crc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:cc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:rrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:rc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:crrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:crc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:cc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:rc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:crc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:cc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:rrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:rc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:crrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:crc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:cc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:rc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:crc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:cc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:", "actions": ["c", "r"]}
+{"decision_point": "Qh:rr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:rc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:cr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:crc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:cc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:rc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:crc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:cc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:rc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:crc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:cc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:rc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:crc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:cc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:rc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:crc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:cc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:", "actions": ["c", "r"]}
+{"decision_point": "Qs:rr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:rc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:cr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:crc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:cc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:rc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:crc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:cc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:rc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:crc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:cc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:rc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:crc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:cc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:rc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:crc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:cc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:", "actions": ["c", "r"]}
+{"decision_point": "Kh:rr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:rrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:rc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:cr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:crrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:crc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:cc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:rc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:crc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:cc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:rrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:rc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:crrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:crc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:cc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:rrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:rc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:crrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:crc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:cc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:rc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:crc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:cc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:", "actions": ["c", "r"]}
+{"decision_point": "Ks:rr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:rrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:rc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:cr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:crrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:crc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:cc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:rc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:crc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:cc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:rrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:rc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:crrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:crc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:cc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:rc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:crc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:cc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:rrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:rrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:rrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:rc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:rcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:rccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:crrc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:crrcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:crrccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:crc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:crcrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:crccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:cc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:ccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:cccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:r", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:c", "actions": ["c", "r"]}
+{"decision_point": "Js:crr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:rcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:crcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Qs:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Qs:ccc", "actions": ["c", "r"]}
+{"decision_point": "Js:Qs:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Kh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Kh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Js:Kh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:rcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:crcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Ks:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Ks:ccc", "actions": ["c", "r"]}
+{"decision_point": "Js:Ks:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:r", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:c", "actions": ["c", "r"]}
+{"decision_point": "Qh:crr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Js:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Js:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Js:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Qs:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Qs:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Qs:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Kh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Kh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Kh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Ks:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Ks:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Ks:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:r", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:c", "actions": ["c", "r"]}
+{"decision_point": "Qs:crr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Js:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Js:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Js:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Qh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Qh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Qh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Kh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Kh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Kh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Ks:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Ks:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Ks:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:r", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:rcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:c", "actions": ["c", "r"]}
+{"decision_point": "Kh:crr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:crcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Js:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Js:ccc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Js:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:rcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:crcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Qs:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Qs:ccc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Qs:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:rcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:crcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Ks:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Ks:ccc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Ks:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:r", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:rcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:c", "actions": ["c", "r"]}
+{"decision_point": "Ks:crr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:crcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Js:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Js:ccc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Js:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:rcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:crcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Qs:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Qs:ccc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Qs:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Kh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Kh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Kh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:r", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:c", "actions": ["c", "r"]}
+{"decision_point": "Jh:crr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:rcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:crcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Qs:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Qs:ccc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Qs:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Kh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Kh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Kh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:rcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:crcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Ks:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Ks:ccc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Ks:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qh:Jh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qh:Jh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qh:Jh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Qs:Jh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Qs:Jh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Qs:Jh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Kh:Jh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Kh:Jh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Kh:Jh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Ks:Jh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Ks:Jh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Ks:Jh:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:rcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:crcc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Jh:Js:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Jh:Js:ccc", "actions": ["c", "r"]}
+{"decision_point": "Jh:Js:cccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:rrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:rrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:rrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:rcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:rcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:rccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:crrcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:crrcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:crrccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:crcr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:crcc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:crccrr", "actions": ["f", "c"]}
+{"decision_point": "Js:Jh:ccr", "actions": ["f", "c", "r"]}
+{"decision_point": "Js:Jh:ccc", "actions": ["c", "r"]}
+{"decision_point": "Js:Jh:cccrr", "actions": ["f", "c"]}

@@ -1,0 +1,6 @@
+{"decision_point": "Current turn: 0\nState: 2\n", "actions": ["Message 0", "Message 1", "Message 2"]}
+{"decision_point": "Current turn: 0\nState: 1\n", "actions": ["Message 0", "Message 1", "Message 2"]}
+{"decision_point": "Current turn: 0\nState: 0\n", "actions": ["Message 0", "Message 1", "Message 2"]}
+{"decision_point": "Current turn: 1\nMessage: 2\n", "actions": ["Action 0", "Action 1", "Action 2"]}
+{"decision_point": "Current turn: 1\nMessage: 1\n", "actions": ["Action 0", "Action 1", "Action 2"]}
+{"decision_point": "Current turn: 1\nMessage: 0\n", "actions": ["Action 0", "Action 1", "Action 2"]}

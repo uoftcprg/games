@@ -1,0 +1,10 @@
+eas @ git+https://github.com/uoftcprg/exp-a-spiel.git@180a1251193ac6c1a4bdf954e77cfa751ef701b1
+flake8~=7.5.0
+gurobipy~=13.0.3
+jsonlines~=4.0.0
+numpy~=2.5.4
+open-spiel~=2.0.2
+ordered-set~=4.1.0
+pokerkit~=0.7.7
+scipy~=1.18.1
+tqdm~=4.70.1
