@@ -7,5 +7,5 @@ declare -A games=(
 )
 
 for name in ${!games[@]}; do
-	./exp-a-spiel.py ${games[$name]} exp-a-spiel/$name.efg exp-a-spiel/$name.interp.jsonl
+	./exp-a-spiel.py ${games[$name]} exp-a-spiel/$name.efg exp-a-spiel/$name.jsonl
 done

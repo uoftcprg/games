@@ -1,7 +1,7 @@
 battleship-3x2-2-4.efg filter=lfs diff=lfs merge=lfs -text
-battleship-3x2-2-4.interp.jsonl filter=lfs diff=lfs merge=lfs -text
+battleship-3x2-2-4.jsonl filter=lfs diff=lfs merge=lfs -text
 goofspiel-7.efg filter=lfs diff=lfs merge=lfs -text
-goofspiel-7.interp.jsonl filter=lfs diff=lfs merge=lfs -text
+goofspiel-7.jsonl filter=lfs diff=lfs merge=lfs -text
 liars-dice-2-4.efg filter=lfs diff=lfs merge=lfs -text
-liars-dice-2-5.interp.jsonl filter=lfs diff=lfs merge=lfs -text
+liars-dice-2-5.jsonl filter=lfs diff=lfs merge=lfs -text
 trade-comm.efg filter=lfs diff=lfs merge=lfs -text
