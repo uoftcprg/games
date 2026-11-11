@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from argparse import ArgumentParser
+from argparse import ArgumentParser, BooleanOptionalAction
 from collections import defaultdict, deque
 from functools import partial
 from pathlib import Path
@@ -18,6 +18,7 @@ def parse_args():
 
     parser.add_argument('name')
     parser.add_argument('interp_path', nargs='?', type=Path)
+    parser.add_argument('--prune', action=BooleanOptionalAction)
     parser.add_argument('--traversal', default='dfs', choices=['bfs', 'dfs'])
 
     return parser.parse_args()
@@ -38,7 +39,7 @@ def main_nfg(gamma, interp_path):
             write_nfg_interp(interps, file)
 
 
-def main_efg(gamma, interp_path, traversal):
+def main_efg(gamma, interp_path, prune, traversal):
     n = gamma.num_players()
     Sigmas = [{} for _ in range(n)]
     p_js = [{} for _ in range(n)]
@@ -62,7 +63,8 @@ def main_efg(gamma, interp_path, traversal):
             U[tuple(sigmas)] += p * np.array(h.returns())
         elif (i := h.current_player()) < 0:
             for a, p_prime in h.chance_outcomes():
-                hs.append((h.child(a), p_prime * p, sigmas))
+                if p_prime or not prune:
+                    hs.append((h.child(a), p_prime * p, sigmas))
         else:
             j = h.information_state_string()
             A = h.legal_actions()
@@ -101,7 +103,7 @@ def main():
 
         main_nfg(gamma, args.interp_path)
     else:
-        main_efg(gamma, args.interp_path, args.traversal)
+        main_efg(gamma, args.interp_path, args.prune, args.traversal)
 
 
 if __name__ == '__main__':

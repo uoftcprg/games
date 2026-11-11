@@ -1,0 +1,3 @@
+[submodule "LibratusEndgames"]
+	path = LibratusEndgames
+	url = https://github.com/uoftcprg/LibratusEndgames.git

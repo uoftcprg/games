@@ -26,6 +26,15 @@ for name in ${!games[@]}; do
 done
 
 games=(
+	["libratus-endgames/subgame3"]="$(<LibratusEndgames/open-spiel-subgame3.txt)"
+	["libratus-endgames/subgame4"]="$(<LibratusEndgames/open-spiel-subgame4.txt)"
+)
+
+for name in ${!games[@]}; do
+	./open-spiel.py --prune "${games[$name]}" open-spiel/$name.jsonl > open-spiel/$name.efg
+done
+
+games=(
 	["blotto-3p"]="blotto(players=3)"
 	["blotto"]="blotto"
 	["matching-pennies-3p"]="matching_pennies_3p"

@@ -4,4 +4,6 @@ goofspiel-7.efg filter=lfs diff=lfs merge=lfs -text
 goofspiel-7.jsonl filter=lfs diff=lfs merge=lfs -text
 liars-dice-2-4.efg filter=lfs diff=lfs merge=lfs -text
 liars-dice-2-5.jsonl filter=lfs diff=lfs merge=lfs -text
+libratus-endgames/subgame3.efg filter=lfs diff=lfs merge=lfs -text
+libratus-endgames/subgame4.efg filter=lfs diff=lfs merge=lfs -text
 trade-comm.efg filter=lfs diff=lfs merge=lfs -text
