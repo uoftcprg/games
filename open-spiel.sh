@@ -26,12 +26,14 @@ for name in ${!games[@]}; do
 done
 
 games=(
+	["libratus-endgames/subgame1"]="$(<LibratusEndgames/open-spiel-subgame1.txt)"
+	["libratus-endgames/subgame2"]="$(<LibratusEndgames/open-spiel-subgame2.txt)"
 	["libratus-endgames/subgame3"]="$(<LibratusEndgames/open-spiel-subgame3.txt)"
 	["libratus-endgames/subgame4"]="$(<LibratusEndgames/open-spiel-subgame4.txt)"
 )
 
 for name in ${!games[@]}; do
-	./open-spiel.py --prune "${games[$name]}" open-spiel/$name.jsonl > open-spiel/$name.efg
+	./open-spiel.py --prune --stream "${games[$name]}" open-spiel/$name.jsonl > open-spiel/$name.efg
 done
 
 games=(

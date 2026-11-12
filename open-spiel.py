@@ -19,6 +19,7 @@ def parse_args():
     parser.add_argument('name')
     parser.add_argument('interp_path', nargs='?', type=Path)
     parser.add_argument('--prune', action=BooleanOptionalAction)
+    parser.add_argument('--stream', action=BooleanOptionalAction)
     parser.add_argument('--traversal', default='dfs', choices=['bfs', 'dfs'])
 
     return parser.parse_args()
@@ -46,7 +47,7 @@ def main_efg(gamma, interp_path, prune, traversal):
     A_js = [{} for _ in range(n)]
     U = defaultdict(int)
     interps = None if interp_path is None else [{} for _ in range(n)]
-    hs = deque([(gamma.new_initial_state(), 1, [0] * n)])
+    hs = deque([(gamma.new_initial_state, 1, [0] * n)])
 
     match traversal:
         case 'bfs':
@@ -58,20 +59,20 @@ def main_efg(gamma, interp_path, prune, traversal):
 
     while hs:
         h, p, sigmas = pop()
+        h = h()
 
         if h.is_terminal():
             U[tuple(sigmas)] += p * np.array(h.returns())
         elif (i := h.current_player()) < 0:
             for a, p_prime in h.chance_outcomes():
                 if p_prime or not prune:
-                    hs.append((h.child(a), p_prime * p, sigmas))
+                    hs.append((partial(h.child, a), p_prime * p, sigmas))
         else:
             j = h.information_state_string()
             A = h.legal_actions()
-            h_primes = list(map(h.child, A))
             A_j = [Sigmas[i].setdefault((j, a), len(Sigmas[i]) + 1) for a in A]
 
-            assert 0 != len(A) == len(h_primes) == len(A_j)
+            assert 0 != len(A) == len(A_j)
 
             p_js[i].setdefault(j, sigmas[i])
             A_js[i].setdefault(j, A_j)
@@ -81,13 +82,108 @@ def main_efg(gamma, interp_path, prune, traversal):
 
                 interps[i].setdefault(j, interp)
 
-            for h_prime, a in zip(h_primes, A_j):
+            for a, a_j in zip(A, A_j):
                 sigma_primes = sigmas.copy()
-                sigma_primes[i] = a
+                sigma_primes[i] = a_j
 
-                hs.append((h_prime, p, sigma_primes))
+                hs.append((partial(h.child, a), p, sigma_primes))
 
     write_efg(p_js, A_js, U, stdout)
+
+    if interp_path is not None:
+        with open(interp_path, 'w') as file:
+            write_efg_interp(interps, file)
+
+
+def main_efg2(gamma, interp_path, prune, traversal):
+    n = gamma.num_players()
+    Sigmas = [{} for _ in range(n)]
+    p_js = [{} for _ in range(n)]
+    A_js = [{} for _ in range(n)]
+    count = 0
+    interps = None if interp_path is None else [{} for _ in range(n)]
+    hs = deque([(gamma.new_initial_state, [0] * n)])
+
+    match traversal:
+        case 'bfs':
+            pop = hs.popleft
+        case 'dfs':
+            pop = hs.pop
+        case _:
+            raise ValueError('unknown traversal')
+
+    while hs:
+        h, sigmas = pop()
+        h = h()
+
+        if h.is_terminal():
+            count += 1
+        elif (i := h.current_player()) < 0:
+            for a, p_prime in h.chance_outcomes():
+                if p_prime or not prune:
+                    hs.append((partial(h.child, a), sigmas))
+        else:
+            j = h.information_state_string()
+            A = h.legal_actions()
+            A_j = [Sigmas[i].setdefault((j, a), len(Sigmas[i]) + 1) for a in A]
+
+            assert 0 != len(A) == len(A_j)
+
+            p_js[i].setdefault(j, sigmas[i])
+            A_js[i].setdefault(j, A_j)
+
+            if interp_path is not None:
+                interp = list(map(h.action_to_string, A))
+
+                interps[i].setdefault(j, interp)
+
+            for a, a_j in zip(A, A_j):
+                sigma_primes = sigmas.copy()
+                sigma_primes[i] = a_j
+
+                hs.append((partial(h.child, a), sigma_primes))
+
+    class U:
+        def __len__(self):
+            return count
+
+        def items(self):
+            hs = deque([(gamma.new_initial_state, 1, [0] * n)])
+
+            match traversal:
+                case 'bfs':
+                    pop = hs.popleft
+                case 'dfs':
+                    pop = hs.pop
+                case _:
+                    raise ValueError('unknown traversal')
+
+            while hs:
+                h, p, sigmas = pop()
+                h = h()
+
+                if h.is_terminal():
+                    yield tuple(sigmas), p * np.array(h.returns())
+                elif (i := h.current_player()) < 0:
+                    for a, p_prime in h.chance_outcomes():
+                        if p_prime or not prune:
+                            hs.append(
+                                (partial(h.child, a), p_prime * p, sigmas),
+                            )
+                else:
+                    j = h.information_state_string()
+                    A = h.legal_actions()
+                    A_j = [Sigmas[i][j, a] for a in A]
+
+                    assert 0 != len(A) == len(A_j)
+
+                    for a, a_j in zip(A, A_j):
+                        sigma_primes = sigmas.copy()
+                        sigma_primes[i] = a_j
+
+                        hs.append((partial(h.child, a), p, sigma_primes))
+
+    write_efg(p_js, A_js, U(), stdout)
 
     if interp_path is not None:
         with open(interp_path, 'w') as file:
@@ -102,6 +198,8 @@ def main():
         gamma = load_tensor_game(args.name)
 
         main_nfg(gamma, args.interp_path)
+    elif args.stream:
+        main_efg2(gamma, args.interp_path, args.prune, args.traversal)
     else:
         main_efg(gamma, args.interp_path, args.prune, args.traversal)
 
