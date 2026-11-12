@@ -22,7 +22,7 @@ declare -A games=(
 )
 
 for name in ${!games[@]}; do
-	./open-spiel.py ${games[$name]} open-spiel/$name.jsonl > open-spiel/$name.efg
+	./open-spiel.py "${games[$name]}" open-spiel/$name.jsonl > open-spiel/$name.efg
 done
 
 games=(
@@ -53,5 +53,5 @@ games=(
 )
 
 for name in ${!games[@]}; do
-	./open-spiel.py ${games[$name]} open-spiel/$name.jsonl > open-spiel/$name.nfg
+	./open-spiel.py "${games[$name]}" open-spiel/$name.jsonl > open-spiel/$name.nfg
 done

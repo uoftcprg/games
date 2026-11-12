@@ -1,27 +1,39 @@
 #!/usr/bin/env python3
 
+from argparse import ArgumentParser
+
 from gurobipy import Env, GRB, Model
 import numpy as np
 
 
+def parse_args():
+    parser = ArgumentParser()
+
+    parser.add_argument('--atol', default=1e-08, type=float)
+
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
     header = input().split()
 
     if header[:2] != ['p', 'nfg']:
         raise ValueError('not UOFTCPRG NFG')
 
-    n, R, C = map(int, header[2:])
+    n = int(header[2])
 
     if n != 2:
         raise ValueError('not 2p')
 
+    R, C = map(int, header[3:])
     A = np.empty((R, C))
 
     for r in range(R):
         for c in range(C):
             u1, u2 = map(float, input().split())
 
-            if not np.isclose(u1 + u2, 0):
+            if abs(u1 + u2) > args.atol:
                 raise ValueError('not 0s')
 
             A[r, c] = u1

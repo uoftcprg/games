@@ -262,6 +262,8 @@ def main():
     write_efg(p_js2, A_js2, U2(), stdout)
 
     if args.interp_path is not None:
+        args.interp_path.parent.mkdir(parents=True, exist_ok=True)
+
         with open(args.interp_path, 'w') as file:
             write_efg_interp(interps, file)
 

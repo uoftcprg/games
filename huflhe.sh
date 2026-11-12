@@ -7,5 +7,5 @@ declare -A games=(
 )
 
 for key in ${!games[@]}; do
-	./huflhe.py ${games[$key]} huflhe/$key.jsonl > huflhe/$key.efg
+	./huflhe.py "${games[$key]}" huflhe/$key.jsonl > huflhe/$key.efg
 done

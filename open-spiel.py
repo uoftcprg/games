@@ -36,6 +36,8 @@ def main_nfg(gamma, interp_path):
         for i, m in enumerate(U.shape[1:]):
             interps.append(list(map(partial(gamma.action_name, i), range(m))))
 
+        interp_path.parent.mkdir(parents=True, exist_ok=True)
+
         with open(interp_path, 'w') as file:
             write_nfg_interp(interps, file)
 
@@ -91,6 +93,8 @@ def main_efg(gamma, interp_path, prune, traversal):
     write_efg(p_js, A_js, U, stdout)
 
     if interp_path is not None:
+        interp_path.parent.mkdir(parents=True, exist_ok=True)
+
         with open(interp_path, 'w') as file:
             write_efg_interp(interps, file)
 

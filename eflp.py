@@ -1,21 +1,33 @@
 #!/usr/bin/env python3
 
+from argparse import ArgumentParser
+
 from gurobipy import Env, GRB, Model
 from scipy.sparse import lil_array
 import numpy as np
 
 
+def parse_args():
+    parser = ArgumentParser()
+
+    parser.add_argument('--atol', default=1e-08, type=float)
+
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
     header = input().split()
 
     if header[:2] != ['p', 'efg']:
         raise ValueError('not UOFTCPRG EFG')
 
-    n, J1, Sigma1, J2, Sigma2, U = map(int, header[2:])
+    n = int(header[2])
 
     if n != 2:
         raise ValueError('not 2p')
 
+    J1, Sigma1, J2, Sigma2, U = map(int, header[3:])
     F = lil_array((J1 + 1, Sigma1 + 1))
     f = np.zeros(J1 + 1)
     F[0, 0] = 1
@@ -51,7 +63,7 @@ def main():
         r, c = map(int, tokens[:2])
         u1, u2 = map(float, tokens[2:])
 
-        if not np.isclose(u1 + u2, 0):
+        if abs(u1 + u2) > args.atol:
             raise ValueError('not 0s')
 
         A[r, c] += u1
