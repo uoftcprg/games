@@ -10,7 +10,7 @@ from open_spiel.python.egt.utils import game_payoffs_array
 from pyspiel import GameType, load_game, load_tensor_game
 import numpy as np
 
-from utilities import write_efg, write_efg_interp, write_nfg, write_nfg_interp
+from utilities import save_efg, save_efg_interp, save_nfg, save_nfg_interp
 
 
 def parse_args():
@@ -28,7 +28,7 @@ def parse_args():
 def main_nfg(gamma, interp_path):
     U = game_payoffs_array(gamma)
 
-    write_nfg(U, stdout)
+    save_nfg(U, stdout)
 
     if interp_path is not None:
         interps = []
@@ -39,7 +39,7 @@ def main_nfg(gamma, interp_path):
         interp_path.parent.mkdir(parents=True, exist_ok=True)
 
         with open(interp_path, 'w') as file:
-            write_nfg_interp(interps, file)
+            save_nfg_interp(interps, file)
 
 
 def main_efg(gamma, interp_path, prune, traversal):
@@ -90,13 +90,13 @@ def main_efg(gamma, interp_path, prune, traversal):
 
                 hs.append((partial(h.child, a), p, sigma_primes))
 
-    write_efg(p_js, A_js, U, stdout)
+    save_efg(p_js, A_js, U, stdout)
 
     if interp_path is not None:
         interp_path.parent.mkdir(parents=True, exist_ok=True)
 
         with open(interp_path, 'w') as file:
-            write_efg_interp(interps, file)
+            save_efg_interp(interps, file)
 
 
 def main_efg2(gamma, interp_path, prune, traversal):
@@ -187,13 +187,13 @@ def main_efg2(gamma, interp_path, prune, traversal):
 
                         hs.append((partial(h.child, a), p, sigma_primes))
 
-    write_efg(p_js, A_js, U(), stdout)
+    save_efg(p_js, A_js, U(), stdout)
 
     if interp_path is not None:
         interp_path.parent.mkdir(parents=True, exist_ok=True)
 
         with open(interp_path, 'w') as file:
-            write_efg_interp(interps, file)
+            save_efg_interp(interps, file)
 
 
 def main():

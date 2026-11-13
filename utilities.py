@@ -2,7 +2,7 @@ from jsonlines import Writer
 from tqdm import tqdm, trange
 
 
-def write_nfg(U, file):
+def save_nfg(U, file):
     assert U.ndim == U.shape[0] + 1
 
     print('p', 'nfg', *U.shape, file=file)
@@ -11,14 +11,14 @@ def write_nfg(U, file):
         print(*us, file=file)
 
 
-def write_nfg_interp(interps, file):
+def save_nfg_interp(interps, file):
     writer = Writer(file)
 
     for interp in tqdm(interps):
         writer.write(interp)
 
 
-def write_efg(p_js, A_js, U, file):
+def save_efg(p_js, A_js, U, file):
     tokens = ['p', 'efg']
 
     tokens.append(len(p_js))
@@ -46,7 +46,7 @@ def write_efg(p_js, A_js, U, file):
         print(*sigmas, *us, file=file)
 
 
-def write_efg_interp(interps, file):
+def save_efg_interp(interps, file):
     writer = Writer(file)
 
     for interp in tqdm(interps):

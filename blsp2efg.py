@@ -5,7 +5,7 @@ from sys import stdout
 
 import numpy as np
 
-from utilities import write_efg
+from utilities import save_efg
 
 
 def load_sfp(J, Sigma):
@@ -75,7 +75,7 @@ def main():
     p_js2, A_js2 = load_sfp(J2, Sigma2)
     U = load_us(Sigma1, Sigma2)
 
-    write_efg((p_js1, p_js2), (A_js1, A_js2), U, stdout)
+    save_efg((p_js1, p_js2), (A_js1, A_js2), U, stdout)
 
 
 if __name__ == '__main__':

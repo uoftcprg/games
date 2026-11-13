@@ -21,7 +21,7 @@ from pokerkit import (
 import numpy as np
 import pokerkit as pk
 
-from utilities import write_efg, write_efg_interp
+from utilities import save_efg, save_efg_interp
 
 AUTOMATIONS = (
     Automation.ANTE_POSTING,
@@ -259,13 +259,13 @@ def main():
 
                     yield (j_a1, j_a2), (sign * v, -sign * v)
 
-    write_efg(p_js2, A_js2, U2(), stdout)
+    save_efg(p_js2, A_js2, U2(), stdout)
 
     if args.interp_path is not None:
         args.interp_path.parent.mkdir(parents=True, exist_ok=True)
 
         with open(args.interp_path, 'w') as file:
-            write_efg_interp(interps, file)
+            save_efg_interp(interps, file)
 
 
 if __name__ == '__main__':
