@@ -1,3 +1,6 @@
 [submodule "LibratusEndgames"]
 	path = LibratusEndgames
 	url = https://github.com/uoftcprg/LibratusEndgames.git
+[submodule "sequence-form-py"]
+	path = sequence-form-py
+	url = https://github.com/CoffeeAndConvexity/sequence-form-py.git

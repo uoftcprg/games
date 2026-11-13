@@ -63,6 +63,8 @@ def main():
                 for sigma0, sigma1, u in zip(sigmas0, sigmas1, us):
                     yield (sigma0 + 1, sigma1 + 1), (u, -u)
 
+    args.efg_path.parent.mkdir(parents=True, exist_ok=True)
+
     with open(args.efg_path, 'w') as file:
         write_efg(p_js, A_js, U(), file)
 

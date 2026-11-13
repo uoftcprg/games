@@ -190,6 +190,8 @@ def main_efg2(gamma, interp_path, prune, traversal):
     write_efg(p_js, A_js, U(), stdout)
 
     if interp_path is not None:
+        interp_path.parent.mkdir(parents=True, exist_ok=True)
+
         with open(interp_path, 'w') as file:
             write_efg_interp(interps, file)
 
