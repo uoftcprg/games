@@ -1,22 +1,24 @@
 #!/usr/bin/env python3
 
 from argparse import ArgumentParser
+from pathlib import Path
+from sys import stdin
 
 from gurobipy import Env, GRB, Model
 import numpy as np
 
 
 def parse_args():
-    parser = ArgumentParser()
+    parser = ArgumentParser(usage='%(prog)s [-h] [--atol ATOL] [nfg | npz]')
 
+    parser.add_argument('file', nargs='?', type=Path)
     parser.add_argument('--atol', default=1e-08, type=float)
 
     return parser.parse_args()
 
 
-def main():
-    args = parse_args()
-    header = input().split()
+def load_nfg(file, atol):
+    header = file.readline().split()
 
     if header[:2] != ['p', 'nfg']:
         raise ValueError('not UOFTCPRG NFG')
@@ -31,12 +33,27 @@ def main():
 
     for r in range(R):
         for c in range(C):
-            u1, u2 = map(float, input().split())
+            u1, u2 = map(float, file.readline().split())
 
-            if abs(u1 + u2) > args.atol:
+            if abs(u1 + u2) > atol:
                 raise ValueError('not 0s')
 
             A[r, c] = u1
+
+    return A
+
+
+def main():
+    args = parse_args()
+
+    if args.file is None:
+        A = load_nfg(stdin, args.atol)
+    else:
+        try:
+            (A,) = np.load(args.file).values()
+        except ValueError:
+            with open(args.file) as file:
+                A = load_nfg(file, args.atol)
 
     with Env(params={'OutputFlag': 0}) as env:
         m = Model(env=env)

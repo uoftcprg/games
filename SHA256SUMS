@@ -1,3 +1,12 @@
+335d6cfd7f24b7ca98c17126ba7b544cbf79e18d7e58b4bd00d1c0f38de71421  2p0s-nfg-npz/matrix/matching-pennies.npz
+3d67916f2a2b439631d86bd6a4a350bec8cfc36237ffd1d79389d30f22231b1e  2p0s-nfg-npz/matrix/rock-paper-scissors.npz
+ebb37a772574b70ab73084ef8c4c0396a6d64b39ce26fc879f4939401b8e90d7  2p0s-nfg-npz/matrix/rock-paper-scissors-plus.npz
+0d224ca324912e0d51059ad0f6851f0063517ef5683e2794e0c89b5fc63cf476  2p0s-nfg-npz/matrix/rock-paper-superscissors.npz
+08da68a94a3c3d001d55cb4a343d0077d2df3fe742ceae45f263476ea37da5c1  2p0s-nfg-npz/open-spiel/blotto.npz
+d97589c362e315b52877a99e9d96eb789bdd15a29c4162de3f4f5516d67a5505  2p0s-nfg-npz/open-spiel/matrix-brps.npz
+335d6cfd7f24b7ca98c17126ba7b544cbf79e18d7e58b4bd00d1c0f38de71421  2p0s-nfg-npz/open-spiel/matrix-mp.npz
+3d67916f2a2b439631d86bd6a4a350bec8cfc36237ffd1d79389d30f22231b1e  2p0s-nfg-npz/open-spiel/matrix-rps.npz
+fc69e63dbd8b9f78d36814b6d94f8d1ce1094aa1fd015af8f39a30f6ae2a277c  2p0s-nfg-npz/open-spiel/matrix-rpsw.npz
 8af5cb514b9cc6a21ecf1816edbf3165e8663aa0c0b82ac9250d356b29b95a86  blsp2efg/kuhn.efg
 ef7d427187eab9506ee0f2bea661d1de494f714710b28e437fda0130d86d6b47  blsp2efg/leduc.efg
 8ff29c6a25eb5212a20c3c6a58001217fb86ef4c7c9b4d55c229567a4033a7d8  blsp2efg/search5-zero-sum.efg
