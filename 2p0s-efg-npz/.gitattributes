@@ -1,0 +1,8 @@
+exp-a-spiel/abrupt-dark-hex-3.sfps.npz filter=lfs diff=lfs merge=lfs -text
+exp-a-spiel/abrupt-phantom-tic-tac-toe.sfps.npz filter=lfs diff=lfs merge=lfs -text
+huflhe/numeral211-holdem.sfps.npz filter=lfs diff=lfs merge=lfs -text
+huflhe/rhode-island-holdem.sfps.npz filter=lfs diff=lfs merge=lfs -text
+huflhe/royal-rhode-island-holdem.us.npz filter=lfs diff=lfs merge=lfs -text
+open-spiel/liars-dice-2-5.us.npz filter=lfs diff=lfs merge=lfs -text
+open-spiel/libratus-endgames/subgame2.us.npz filter=lfs diff=lfs merge=lfs -text
+open-spiel/libratus-endgames/subgame3.us.npz filter=lfs diff=lfs merge=lfs -text
