@@ -36,6 +36,8 @@ ae345a0b32e58bcbd1ce59430a44e0e5797f95d4110f0d10e558759312693605  2p0s-efg-npz/o
 f66eeddc55f70d6e398e893f2682ae6633e427e20aad88da8b26c977e55206ce  2p0s-efg-npz/open-spiel/goofspiel-7.us.npz
 d6e04f1b3c6f2c515baa7965c99f0850ca8a9e654a2015d8003cf658fe57cfda  2p0s-efg-npz/open-spiel/kuhn-poker.sfps.npz
 2226df1eb0835b89928805b1f1eed2989cd09a39b54ea912640a9d91ed1d757f  2p0s-efg-npz/open-spiel/kuhn-poker.us.npz
+48a9f78cb0df053497ec813d0fd3e3916203e88d8b8b1ff856a4948f36c212c7  2p0s-efg-npz/open-spiel/latent-ttt.sfps.npz
+4a83d6596d1f9b02b8fcdc206b68c34ce880c47cf548f9e6de38809420525d43  2p0s-efg-npz/open-spiel/latent-ttt.us.npz
 6677a0810846c976d7a4fbdd13447736e5a839f33a75b23a0a4a7d28b492d1fd  2p0s-efg-npz/open-spiel/leduc-poker.sfps.npz
 675d0af27b5c86bb998502a0bf0202f24dff168cb8b39f63f155f325409beb6f  2p0s-efg-npz/open-spiel/leduc-poker.us.npz
 57e4c3e6fe27eeafbd9dac2c5e930daf1629f62918880cf0e63c9b5a78b03466  2p0s-efg-npz/open-spiel/liars-dice-2-4.sfps.npz
@@ -130,6 +132,8 @@ ed735011e4eb53c5f3711c74a8790c3b30b1ec38ddf28eea518f15aee398a406  open-spiel/kuh
 0837addc28ea7bfcc566986c9a81fd7f2492fabe1ff86b5ea6be93059f848ee2  open-spiel/kuhn-poker-4p.jsonl
 a40ea2787c59babd1188456d213ef5656bd373f1d7cda10753746624ed2fae49  open-spiel/kuhn-poker.efg
 d0b75dfe186cf3416b3396610fa6f7934ff39f42b66b9bd8bedc89c18e8851b6  open-spiel/kuhn-poker.jsonl
+7cc1c903a42dd78df2105519775fca8c2bc4f05922baf7051f080168d425aa53  open-spiel/latent-ttt.efg
+68d808e98174e999e16b5aff9708e6aabd74c7c6dbb5e8c23fd12aa37c634e8e  open-spiel/latent-ttt.jsonl
 72cc041fc52af1af9bade1bb5bfca233fb69d01ffdb45ac445d1170565f5378f  open-spiel/leduc-poker-3p.efg
 96434fe73a5986570b03b99cf7f95bbe9fd67b882c816f4332c7ec0de06b8b41  open-spiel/leduc-poker-3p.jsonl
 0ba06743578cad92ad78ddd7ab8c8e9bf0d207727ac1b55a419ab2654c1c1ebb  open-spiel/leduc-poker.efg

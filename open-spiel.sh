@@ -8,6 +8,7 @@ declare -A games=(
 	["kuhn-poker-3p"]="kuhn_poker(players=3)"
 	["kuhn-poker-4p"]="kuhn_poker(players=4)"
 	["kuhn-poker"]="kuhn_poker"
+	["latent-ttt"]="latent_ttt"
 	["leduc-poker-3p"]="leduc_poker(players=3)"
 	["leduc-poker"]="leduc_poker"
 	["lewis-signaling"]="lewis_signaling"
