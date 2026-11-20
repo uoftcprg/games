@@ -1,0 +1,8 @@
+hidden-bid-oshi-zumo-13-3-1.efg filter=lfs diff=lfs merge=lfs -text
+hidden-bid-oshi-zumo-13-3-1.jsonl filter=lfs diff=lfs merge=lfs -text
+pursuit-evasion-4x4-5.efg filter=lfs diff=lfs merge=lfs -text
+pursuit-evasion-4x4-5.jsonl filter=lfs diff=lfs merge=lfs -text
+tron-6x6.efg filter=lfs diff=lfs merge=lfs -text
+tron-6x6.jsonl filter=lfs diff=lfs merge=lfs -text
+visibility-pursuit-7.efg filter=lfs diff=lfs merge=lfs -text
+visibility-pursuit-7.jsonl filter=lfs diff=lfs merge=lfs -text
