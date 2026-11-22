@@ -1,0 +1,12 @@
+{"decision_point": [0, 577], "actions": ["[b, Pl0, 2]", "[ch, Pl0, 2]"]}
+{"decision_point": [2, -1164735066], "actions": ["[c, Pl0, 2]", "[f, Pl0, 2]"]}
+{"decision_point": [0, 576], "actions": ["[b, Pl0, 1]", "[ch, Pl0, 1]"]}
+{"decision_point": [6, -1165658587], "actions": ["[c, Pl0, 1]", "[f, Pl0, 1]"]}
+{"decision_point": [0, 575], "actions": ["[b, Pl0, 0]", "[ch, Pl0, 0]"]}
+{"decision_point": [10, -1166582108], "actions": ["[c, Pl0, 0]", "[f, Pl0, 0]"]}
+{"decision_point": [0, 342568507], "actions": ["[b, Pl1, 1]", "[ch, Pl1, 1]"]}
+{"decision_point": [0, 339041482], "actions": ["[c, Pl1, 1]", "[f, Pl1, 1]"]}
+{"decision_point": [0, 342567546], "actions": ["[b, Pl1, 0]", "[ch, Pl1, 0]"]}
+{"decision_point": [0, 339040521], "actions": ["[c, Pl1, 0]", "[f, Pl1, 0]"]}
+{"decision_point": [0, 342569468], "actions": ["[b, Pl1, 2]", "[ch, Pl1, 2]"]}
+{"decision_point": [0, 339042443], "actions": ["[c, Pl1, 2]", "[f, Pl1, 2]"]}

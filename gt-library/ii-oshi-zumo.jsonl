@@ -1,0 +1,98 @@
+{"decision_point": [0, 23311], "actions": ["[2, Pl0]", "[3, Pl0]", "[4, Pl0]", "[5, Pl0]", "[6, Pl0]", "[7, Pl0]"]}
+{"decision_point": [6, 24458], "actions": ["[0, Pl0]"]}
+{"decision_point": [7, 59941], "actions": ["[0, Pl0]"]}
+{"decision_point": [5, 24458], "actions": ["[0, Pl0]"]}
+{"decision_point": [9, 59941], "actions": ["[0, Pl0]"]}
+{"decision_point": [4, 24384], "actions": ["[2, Pl0]"]}
+{"decision_point": [4, 24421], "actions": ["[2, Pl0]"]}
+{"decision_point": [4, 24458], "actions": ["[2, Pl0]"]}
+{"decision_point": [13, 59978], "actions": ["[0, Pl0]"]}
+{"decision_point": [13, 59941], "actions": ["[0, Pl0]"]}
+{"decision_point": [3, 24384], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [3, 24421], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [3, 24458], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [21, 60015], "actions": ["[0, Pl0]"]}
+{"decision_point": [20, 59978], "actions": ["[0, Pl0]"]}
+{"decision_point": [21, 59978], "actions": ["[0, Pl0]"]}
+{"decision_point": [20, 59941], "actions": ["[0, Pl0]"]}
+{"decision_point": [2, 24384], "actions": ["[2, Pl0]", "[3, Pl0]", "[4, Pl0]"]}
+{"decision_point": [26, 57721], "actions": ["[2, Pl0]"]}
+{"decision_point": [26, 57684], "actions": ["[2, Pl0]"]}
+{"decision_point": [26, 57647], "actions": ["[2, Pl0]"]}
+{"decision_point": [2, 24421], "actions": ["[2, Pl0]", "[3, Pl0]", "[4, Pl0]"]}
+{"decision_point": [34, 58868], "actions": ["[0, Pl0]"]}
+{"decision_point": [33, 58868], "actions": ["[0, Pl0]"]}
+{"decision_point": [32, 58794], "actions": ["[2, Pl0]"]}
+{"decision_point": [32, 58831], "actions": ["[2, Pl0]"]}
+{"decision_point": [2, 24458], "actions": ["[2, Pl0]", "[3, Pl0]", "[4, Pl0]"]}
+{"decision_point": [41, 60015], "actions": ["[0, Pl0]"]}
+{"decision_point": [40, 59978], "actions": ["[0, Pl0]"]}
+{"decision_point": [40, 60015], "actions": ["[0, Pl0]"]}
+{"decision_point": [39, 59941], "actions": ["[2, Pl0]"]}
+{"decision_point": [39, 59978], "actions": ["[2, Pl0]"]}
+{"decision_point": [1, 24384], "actions": ["[2, Pl0]", "[3, Pl0]", "[4, Pl0]", "[5, Pl0]"]}
+{"decision_point": [48, 57721], "actions": ["[2, Pl0]"]}
+{"decision_point": [47, 57721], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [47, 57684], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [48, 57684], "actions": ["[2, Pl0]"]}
+{"decision_point": [47, 57647], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [50, 57721], "actions": ["[0, Pl0]"]}
+{"decision_point": [49, 57721], "actions": ["[0, Pl0]"]}
+{"decision_point": [48, 57647], "actions": ["[2, Pl0]"]}
+{"decision_point": [1, 24421], "actions": ["[2, Pl0]", "[3, Pl0]", "[4, Pl0]", "[5, Pl0]"]}
+{"decision_point": [65, 58868], "actions": ["[0, Pl0]"]}
+{"decision_point": [64, 58868], "actions": ["[0, Pl0]"]}
+{"decision_point": [63, 58794], "actions": ["[2, Pl0]"]}
+{"decision_point": [63, 58831], "actions": ["[2, Pl0]"]}
+{"decision_point": [63, 58868], "actions": ["[2, Pl0]"]}
+{"decision_point": [62, 58794], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [62, 58831], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [0, 23311], "actions": ["[2, Pl1]", "[3, Pl1]", "[4, Pl1]", "[5, Pl1]", "[6, Pl1]", "[7, Pl1]"]}
+{"decision_point": [4, 24384], "actions": ["[2, Pl1]"]}
+{"decision_point": [3, 24384], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [2, 24384], "actions": ["[2, Pl1]", "[3, Pl1]", "[4, Pl1]"]}
+{"decision_point": [10, 57721], "actions": ["[2, Pl1]"]}
+{"decision_point": [1, 24384], "actions": ["[2, Pl1]", "[3, Pl1]", "[4, Pl1]", "[5, Pl1]"]}
+{"decision_point": [15, 57721], "actions": ["[2, Pl1]"]}
+{"decision_point": [14, 57721], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [6, 24458], "actions": ["[0, Pl1]"]}
+{"decision_point": [5, 24458], "actions": ["[0, Pl1]"]}
+{"decision_point": [4, 24421], "actions": ["[2, Pl1]"]}
+{"decision_point": [10, 57684], "actions": ["[2, Pl1]"]}
+{"decision_point": [14, 57684], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [4, 24458], "actions": ["[2, Pl1]"]}
+{"decision_point": [3, 24421], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [10, 57647], "actions": ["[2, Pl1]"]}
+{"decision_point": [15, 57684], "actions": ["[2, Pl1]"]}
+{"decision_point": [14, 57647], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [21, 59941], "actions": ["[0, Pl1]"]}
+{"decision_point": [22, 59941], "actions": ["[0, Pl1]"]}
+{"decision_point": [27, 59978], "actions": ["[0, Pl1]"]}
+{"decision_point": [3, 24458], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [38, 60015], "actions": ["[0, Pl1]"]}
+{"decision_point": [37, 59978], "actions": ["[0, Pl1]"]}
+{"decision_point": [2, 24421], "actions": ["[2, Pl1]", "[3, Pl1]", "[4, Pl1]"]}
+{"decision_point": [41, 58794], "actions": ["[2, Pl1]"]}
+{"decision_point": [43, 58868], "actions": ["[0, Pl1]"]}
+{"decision_point": [42, 58868], "actions": ["[0, Pl1]"]}
+{"decision_point": [41, 58831], "actions": ["[2, Pl1]"]}
+{"decision_point": [15, 57647], "actions": ["[2, Pl1]"]}
+{"decision_point": [17, 57721], "actions": ["[0, Pl1]"]}
+{"decision_point": [16, 57721], "actions": ["[0, Pl1]"]}
+{"decision_point": [27, 59941], "actions": ["[0, Pl1]"]}
+{"decision_point": [38, 59978], "actions": ["[0, Pl1]"]}
+{"decision_point": [37, 59941], "actions": ["[0, Pl1]"]}
+{"decision_point": [2, 24458], "actions": ["[2, Pl1]", "[3, Pl1]", "[4, Pl1]"]}
+{"decision_point": [54, 59941], "actions": ["[2, Pl1]"]}
+{"decision_point": [56, 60015], "actions": ["[0, Pl1]"]}
+{"decision_point": [55, 59978], "actions": ["[0, Pl1]"]}
+{"decision_point": [55, 60015], "actions": ["[0, Pl1]"]}
+{"decision_point": [54, 59978], "actions": ["[2, Pl1]"]}
+{"decision_point": [1, 24421], "actions": ["[2, Pl1]", "[3, Pl1]", "[4, Pl1]", "[5, Pl1]"]}
+{"decision_point": [63, 58794], "actions": ["[2, Pl1]"]}
+{"decision_point": [62, 58794], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [65, 58868], "actions": ["[0, Pl1]"]}
+{"decision_point": [64, 58868], "actions": ["[0, Pl1]"]}
+{"decision_point": [63, 58831], "actions": ["[2, Pl1]"]}
+{"decision_point": [63, 58868], "actions": ["[2, Pl1]"]}
+{"decision_point": [62, 58831], "actions": ["[2, Pl1]", "[3, Pl1]"]}

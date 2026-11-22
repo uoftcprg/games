@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from argparse import ArgumentParser
+from collections import defaultdict
 from json import loads
 from pathlib import Path
 from sys import stdout
@@ -43,20 +44,27 @@ def main():
 
         setattr(info, name, value)
 
+    info()
+
     expander = JClass(DOMAIN + expander)(JClass(CONFIG)())
     n = 2
     Sigmas = [{} for _ in range(n)]
     p_js = [{} for _ in range(n)]
     A_js = [{} for _ in range(n)]
-    U = {}
+    U = defaultdict(int)
     interps = None if args.interp_path is None else [{} for _ in range(n)]
-    hs = [(JClass(DOMAIN + state)(), [0] * n)]
+    hs = [(JClass(DOMAIN + state)(), 1, [0] * n)]
 
     while hs:
-        h, sigmas = hs.pop()
+        h, p, sigmas = hs.pop()
 
         if h.isGameEnd():
-            U[tuple(sigmas)] = np.array(h.getUtilities()[:n])
+            U[tuple(sigmas)] += p * np.array(h.getUtilities()[:n])
+        elif h.isPlayerToMoveNature():
+            for a in expander.getActions(h):
+                p_prime = h.getProbabilityOfNatureFor(a)
+
+                hs.append((h.performAction(a), p_prime * p, sigmas))
         else:
             i = h.getPlayerToMove().getId()
             j = sigmas[i], h.getISKeyForPlayerToMove().getHash()
@@ -78,7 +86,7 @@ def main():
                 sigma_primes = sigmas.copy()
                 sigma_primes[i] = a_j
 
-                hs.append((h.performAction(a), sigma_primes))
+                hs.append((h.performAction(a), p, sigma_primes))
 
     save_efg(p_js, A_js, U, stdout)
 

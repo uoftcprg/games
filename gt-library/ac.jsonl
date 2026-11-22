@@ -1,0 +1,63 @@
+{"decision_point": [0, 1292517194], "actions": ["bet", "check"]}
+{"decision_point": [2, 1471680191], "actions": ["bet", "check"]}
+{"decision_point": [2, -1560421273], "actions": ["bet", "check"]}
+{"decision_point": [2, -214625171], "actions": ["bet", "check"]}
+{"decision_point": [1, -251912244], "actions": ["bet", "check"]}
+{"decision_point": [1, 1010953588], "actions": ["bet", "check"]}
+{"decision_point": [1, -1938217606], "actions": ["bet", "check"]}
+{"decision_point": [0, 1009626926], "actions": ["bet", "check"]}
+{"decision_point": [16, 291970790], "actions": ["bet", "check"]}
+{"decision_point": [16, 1554836622], "actions": ["bet", "check"]}
+{"decision_point": [16, -1394334572], "actions": ["bet", "check"]}
+{"decision_point": [15, -1431621645], "actions": ["bet", "check"]}
+{"decision_point": [15, -168755813], "actions": ["bet", "check"]}
+{"decision_point": [15, 1177040289], "actions": ["bet", "check"]}
+{"decision_point": [0, -2022474538], "actions": ["bet", "check"]}
+{"decision_point": [30, 695602830], "actions": ["bet", "check"]}
+{"decision_point": [30, 1958468662], "actions": ["bet", "check"]}
+{"decision_point": [30, -990702532], "actions": ["bet", "check"]}
+{"decision_point": [29, -1027989605], "actions": ["bet", "check"]}
+{"decision_point": [29, 234876227], "actions": ["bet", "check"]}
+{"decision_point": [29, 1580672329], "actions": ["bet", "check"]}
+{"decision_point": [0, -115008006], "actions": ["check"]}
+{"decision_point": [1, 291305394], "actions": ["check"]}
+{"decision_point": [1, -195087035], "actions": ["call", "fold"]}
+{"decision_point": [1, -1570374822], "actions": ["check"]}
+{"decision_point": [1, -2056767251], "actions": ["call", "fold"]}
+{"decision_point": [1, -1045476896], "actions": ["check"]}
+{"decision_point": [1, -1531869325], "actions": ["call", "fold"]}
+{"decision_point": [0, -601400435], "actions": ["call", "fold"]}
+{"decision_point": [11, 1776351615], "actions": ["check"]}
+{"decision_point": [11, 1289959186], "actions": ["call", "fold"]}
+{"decision_point": [11, -85328601], "actions": ["check"]}
+{"decision_point": [11, -571721030], "actions": ["call", "fold"]}
+{"decision_point": [11, 439569325], "actions": ["check"]}
+{"decision_point": [11, -46823104], "actions": ["call", "fold"]}
+{"decision_point": [0, -1555838113], "actions": ["check"]}
+{"decision_point": [22, -1578540902], "actions": ["check"]}
+{"decision_point": [22, -2064933331], "actions": ["call", "fold"]}
+{"decision_point": [22, 854746178], "actions": ["check"]}
+{"decision_point": [22, 368353749], "actions": ["call", "fold"]}
+{"decision_point": [22, 1379644104], "actions": ["check"]}
+{"decision_point": [22, 893251675], "actions": ["call", "fold"]}
+{"decision_point": [0, -2042230542], "actions": ["call", "fold"]}
+{"decision_point": [32, -93494681], "actions": ["check"]}
+{"decision_point": [32, -579887110], "actions": ["call", "fold"]}
+{"decision_point": [32, -1955174897], "actions": ["check"]}
+{"decision_point": [32, 1853399970], "actions": ["call", "fold"]}
+{"decision_point": [32, -1430276971], "actions": ["check"]}
+{"decision_point": [32, -1916669400], "actions": ["call", "fold"]}
+{"decision_point": [0, 877448967], "actions": ["check"]}
+{"decision_point": [43, -235207102], "actions": ["check"]}
+{"decision_point": [43, -721599531], "actions": ["call", "fold"]}
+{"decision_point": [43, -2096887318], "actions": ["check"]}
+{"decision_point": [43, 1711687549], "actions": ["call", "fold"]}
+{"decision_point": [43, -1571989392], "actions": ["check"]}
+{"decision_point": [43, -2058381821], "actions": ["call", "fold"]}
+{"decision_point": [0, 391056538], "actions": ["call", "fold"]}
+{"decision_point": [53, 1249839119], "actions": ["check"]}
+{"decision_point": [53, 763446690], "actions": ["call", "fold"]}
+{"decision_point": [53, -611841097], "actions": ["check"]}
+{"decision_point": [53, -1098233526], "actions": ["call", "fold"]}
+{"decision_point": [53, -86943171], "actions": ["check"]}
+{"decision_point": [53, -573335600], "actions": ["call", "fold"]}

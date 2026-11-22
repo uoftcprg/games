@@ -1,0 +1,4 @@
+{"decision_point": 1, "actions": ["Up", "Stay"]}
+{"decision_point": 0, "actions": ["Up", "Stay"]}
+{"decision_point": 1, "actions": ["Surrender", "Fight"]}
+{"decision_point": 0, "actions": ["Surrender", "Fight"]}

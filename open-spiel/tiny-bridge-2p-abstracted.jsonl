@@ -1,0 +1,1536 @@
+{"decision_point": "SASK SASQ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Us 2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us 1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us 1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Us 1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us 1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Us 1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Us 1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us 1H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us 1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Us 1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Us 1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us 1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Us 1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us 1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us 1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us 1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Us 1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us Pass-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Us Pass-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Us Pass-1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Us Pass-1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SQSJ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SQSJ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHA SKHA SQHA Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SJHJ SJHK SJHQ SKHJ SKHK SKHQ SQHJ SQHK SQHQ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHK HAHQ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HKHJ HKHQ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HAHJ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HAHJ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "HQHJ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "HQHJ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SKSQ SKSJ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASJ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASJ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHA Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHA Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SAHJ SAHK SAHQ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd 2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd 2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1S-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1H", "actions": ["Pass", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1H-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1H-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1H-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1H-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1H-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1H-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1H-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1H-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1H-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1H-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1H-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd 1H-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1H-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd 1H-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass", "actions": ["Pass", "1H", "1S", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1NT-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1S-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1S-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1S-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1S-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1S-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1S-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1S-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-2H-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1NT", "actions": ["Pass", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1NT-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1NT-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1NT-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1S", "actions": ["Pass", "1NT", "2H", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1S-2S-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1S-2H-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1S-2H-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1S-1NT-2NT", "actions": ["Pass"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1S-1NT-2S", "actions": ["Pass", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1S-1NT-2H", "actions": ["Pass", "2S", "2NT"]}
+{"decision_point": "SASK SASQ Pd Pass-1H-1S-1NT-2H-2S-2NT", "actions": ["Pass"]}

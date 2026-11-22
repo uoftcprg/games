@@ -1,0 +1,72 @@
+{"decision_point": [0, 0], "actions": ["[1, Pl0]", "[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [3, 1], "actions": ["[1, Pl0]", "[2, Pl0]"]}
+{"decision_point": [5, 4], "actions": ["[1, Pl0]"]}
+{"decision_point": [5, 23], "actions": ["[1, Pl0]"]}
+{"decision_point": [4, 3], "actions": ["[2, Pl0]"]}
+{"decision_point": [4, 4], "actions": ["[2, Pl0]"]}
+{"decision_point": [3, 11], "actions": ["[1, Pl0]", "[2, Pl0]"]}
+{"decision_point": [11, 33], "actions": ["[1, Pl0]"]}
+{"decision_point": [11, 53], "actions": ["[1, Pl0]"]}
+{"decision_point": [10, 33], "actions": ["[2, Pl0]"]}
+{"decision_point": [10, 34], "actions": ["[2, Pl0]"]}
+{"decision_point": [11, 34], "actions": ["[1, Pl0]"]}
+{"decision_point": [2, 0], "actions": ["[1, Pl0]", "[3, Pl0]"]}
+{"decision_point": [18, 20], "actions": ["[1, Pl0]"]}
+{"decision_point": [17, 0], "actions": ["[3, Pl0]"]}
+{"decision_point": [17, 1], "actions": ["[3, Pl0]"]}
+{"decision_point": [2, 1], "actions": ["[1, Pl0]", "[3, Pl0]"]}
+{"decision_point": [23, 4], "actions": ["[1, Pl0]"]}
+{"decision_point": [23, 23], "actions": ["[1, Pl0]"]}
+{"decision_point": [22, 3], "actions": ["[3, Pl0]"]}
+{"decision_point": [22, 4], "actions": ["[3, Pl0]"]}
+{"decision_point": [2, 11], "actions": ["[1, Pl0]", "[3, Pl0]"]}
+{"decision_point": [29, 34], "actions": ["[1, Pl0]"]}
+{"decision_point": [29, 53], "actions": ["[1, Pl0]"]}
+{"decision_point": [28, 33], "actions": ["[3, Pl0]"]}
+{"decision_point": [1, 0], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [34, 20], "actions": ["[2, Pl0]"]}
+{"decision_point": [33, 1], "actions": ["[3, Pl0]"]}
+{"decision_point": [33, 20], "actions": ["[3, Pl0]"]}
+{"decision_point": [34, 1], "actions": ["[2, Pl0]"]}
+{"decision_point": [33, 0], "actions": ["[3, Pl0]"]}
+{"decision_point": [1, 1], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [41, 4], "actions": ["[2, Pl0]"]}
+{"decision_point": [41, 23], "actions": ["[2, Pl0]"]}
+{"decision_point": [40, 3], "actions": ["[3, Pl0]"]}
+{"decision_point": [40, 4], "actions": ["[3, Pl0]"]}
+{"decision_point": [0, 0], "actions": ["[1, Pl1]", "[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [3, 1], "actions": ["[1, Pl1]", "[2, Pl1]"]}
+{"decision_point": [5, 4], "actions": ["[1, Pl1]"]}
+{"decision_point": [4, 23], "actions": ["[2, Pl1]"]}
+{"decision_point": [5, 3], "actions": ["[1, Pl1]"]}
+{"decision_point": [4, 4], "actions": ["[2, Pl1]"]}
+{"decision_point": [2, 11], "actions": ["[1, Pl1]", "[3, Pl1]"]}
+{"decision_point": [11, 33], "actions": ["[1, Pl1]"]}
+{"decision_point": [10, 53], "actions": ["[3, Pl1]"]}
+{"decision_point": [10, 34], "actions": ["[3, Pl1]"]}
+{"decision_point": [1, 11], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [16, 33], "actions": ["[2, Pl1]"]}
+{"decision_point": [15, 34], "actions": ["[3, Pl1]"]}
+{"decision_point": [15, 33], "actions": ["[3, Pl1]"]}
+{"decision_point": [3, 0], "actions": ["[1, Pl1]", "[2, Pl1]"]}
+{"decision_point": [21, 20], "actions": ["[1, Pl1]"]}
+{"decision_point": [20, 20], "actions": ["[2, Pl1]"]}
+{"decision_point": [21, 0], "actions": ["[1, Pl1]"]}
+{"decision_point": [20, 1], "actions": ["[2, Pl1]"]}
+{"decision_point": [2, 1], "actions": ["[1, Pl1]", "[3, Pl1]"]}
+{"decision_point": [27, 4], "actions": ["[1, Pl1]"]}
+{"decision_point": [26, 23], "actions": ["[3, Pl1]"]}
+{"decision_point": [27, 3], "actions": ["[1, Pl1]"]}
+{"decision_point": [26, 4], "actions": ["[3, Pl1]"]}
+{"decision_point": [16, 34], "actions": ["[2, Pl1]"]}
+{"decision_point": [15, 53], "actions": ["[3, Pl1]"]}
+{"decision_point": [21, 1], "actions": ["[1, Pl1]"]}
+{"decision_point": [2, 0], "actions": ["[1, Pl1]", "[3, Pl1]"]}
+{"decision_point": [36, 1], "actions": ["[1, Pl1]"]}
+{"decision_point": [35, 20], "actions": ["[3, Pl1]"]}
+{"decision_point": [36, 0], "actions": ["[1, Pl1]"]}
+{"decision_point": [1, 1], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [41, 4], "actions": ["[2, Pl1]"]}
+{"decision_point": [40, 23], "actions": ["[3, Pl1]"]}
+{"decision_point": [41, 3], "actions": ["[2, Pl1]"]}
+{"decision_point": [40, 4], "actions": ["[3, Pl1]"]}

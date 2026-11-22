@@ -1,0 +1,288 @@
+{"decision_point": "pl1_96__3?/[12|2]", "actions": ["k", "r"]}
+{"decision_point": "pl1_134__3?/[12|2]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_138__3?/[12|2]/1r/2r/1c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_140__3?/[12|2]/1r/2r/1c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_139__3?/[12|2]/1r/2r/1c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_135__3?/[12|2]/1r/2r/1c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_137__3?/[12|2]/1r/2r/1c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_136__3?/[12|2]/1r/2r/1c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_128__3?/[12|2]/1r/2c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_130__3?/[12|2]/1r/2c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_129__3?/[12|2]/1r/2c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_125__3?/[12|2]/1r/2c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_127__3?/[12|2]/1r/2c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_126__3?/[12|2]/1r/2c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_106__3?/[12|2]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_119__3?/[12|2]/1k/2r/1r/2c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_121__3?/[12|2]/1k/2r/1r/2c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_120__3?/[12|2]/1k/2r/1r/2c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_116__3?/[12|2]/1k/2r/1r/2c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_118__3?/[12|2]/1k/2r/1r/2c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_117__3?/[12|2]/1k/2r/1r/2c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_110__3?/[12|2]/1k/2r/1c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_112__3?/[12|2]/1k/2r/1c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_111__3?/[12|2]/1k/2r/1c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_107__3?/[12|2]/1k/2r/1c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_109__3?/[12|2]/1k/2r/1c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_108__3?/[12|2]/1k/2r/1c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_100__3?/[12|2]/1k/2k/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_102__3?/[12|2]/1k/2k/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_101__3?/[12|2]/1k/2k/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_97__3?/[12|2]/1k/2k/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_99__3?/[12|2]/1k/2k/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_98__3?/[12|2]/1k/2k/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_141__3?/[12|2]/1r/2r/1c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_143__3?/[12|2]/1r/2r/1c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_142__3?/[12|2]/1r/2r/1c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_131__3?/[12|2]/1r/2c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_133__3?/[12|2]/1r/2c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_132__3?/[12|2]/1r/2c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_122__3?/[12|2]/1k/2r/1r/2c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_124__3?/[12|2]/1k/2r/1r/2c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_123__3?/[12|2]/1k/2r/1r/2c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_113__3?/[12|2]/1k/2r/1c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_115__3?/[12|2]/1k/2r/1c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_114__3?/[12|2]/1k/2r/1c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_103__3?/[12|2]/1k/2k/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_105__3?/[12|2]/1k/2k/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_104__3?/[12|2]/1k/2k/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_48__2?/[12|2]", "actions": ["k", "r"]}
+{"decision_point": "pl1_86__2?/[12|2]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_93__2?/[12|2]/1r/2r/1c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_95__2?/[12|2]/1r/2r/1c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_94__2?/[12|2]/1r/2r/1c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_90__2?/[12|2]/1r/2r/1c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_92__2?/[12|2]/1r/2r/1c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_91__2?/[12|2]/1r/2r/1c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_87__2?/[12|2]/1r/2r/1c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_89__2?/[12|2]/1r/2r/1c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_88__2?/[12|2]/1r/2r/1c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_83__2?/[12|2]/1r/2c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_85__2?/[12|2]/1r/2c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_84__2?/[12|2]/1r/2c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_80__2?/[12|2]/1r/2c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_82__2?/[12|2]/1r/2c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_81__2?/[12|2]/1r/2c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_77__2?/[12|2]/1r/2c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_79__2?/[12|2]/1r/2c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_78__2?/[12|2]/1r/2c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_58__2?/[12|2]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_74__2?/[12|2]/1k/2r/1r/2c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_76__2?/[12|2]/1k/2r/1r/2c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_75__2?/[12|2]/1k/2r/1r/2c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_71__2?/[12|2]/1k/2r/1r/2c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_73__2?/[12|2]/1k/2r/1r/2c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_72__2?/[12|2]/1k/2r/1r/2c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_68__2?/[12|2]/1k/2r/1r/2c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_70__2?/[12|2]/1k/2r/1r/2c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_69__2?/[12|2]/1k/2r/1r/2c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_65__2?/[12|2]/1k/2r/1c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_67__2?/[12|2]/1k/2r/1c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_66__2?/[12|2]/1k/2r/1c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_62__2?/[12|2]/1k/2r/1c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_64__2?/[12|2]/1k/2r/1c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_63__2?/[12|2]/1k/2r/1c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_59__2?/[12|2]/1k/2r/1c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_61__2?/[12|2]/1k/2r/1c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_60__2?/[12|2]/1k/2r/1c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_55__2?/[12|2]/1k/2k/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_57__2?/[12|2]/1k/2k/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_56__2?/[12|2]/1k/2k/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_52__2?/[12|2]/1k/2k/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_54__2?/[12|2]/1k/2k/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_53__2?/[12|2]/1k/2k/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_49__2?/[12|2]/1k/2k/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_51__2?/[12|2]/1k/2k/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_50__2?/[12|2]/1k/2k/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_0__1?/[12|2]", "actions": ["k", "r"]}
+{"decision_point": "pl1_38__1?/[12|2]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_45__1?/[12|2]/1r/2r/1c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_47__1?/[12|2]/1r/2r/1c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_46__1?/[12|2]/1r/2r/1c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_42__1?/[12|2]/1r/2r/1c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_44__1?/[12|2]/1r/2r/1c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_43__1?/[12|2]/1r/2r/1c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_39__1?/[12|2]/1r/2r/1c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_41__1?/[12|2]/1r/2r/1c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_40__1?/[12|2]/1r/2r/1c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_35__1?/[12|2]/1r/2c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_37__1?/[12|2]/1r/2c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_36__1?/[12|2]/1r/2c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_32__1?/[12|2]/1r/2c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_34__1?/[12|2]/1r/2c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_33__1?/[12|2]/1r/2c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_29__1?/[12|2]/1r/2c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_31__1?/[12|2]/1r/2c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_30__1?/[12|2]/1r/2c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_10__1?/[12|2]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_26__1?/[12|2]/1k/2r/1r/2c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_28__1?/[12|2]/1k/2r/1r/2c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_27__1?/[12|2]/1k/2r/1r/2c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_23__1?/[12|2]/1k/2r/1r/2c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_25__1?/[12|2]/1k/2r/1r/2c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_24__1?/[12|2]/1k/2r/1r/2c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_20__1?/[12|2]/1k/2r/1r/2c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_22__1?/[12|2]/1k/2r/1r/2c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_21__1?/[12|2]/1k/2r/1r/2c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_17__1?/[12|2]/1k/2r/1c/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_19__1?/[12|2]/1k/2r/1c/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_18__1?/[12|2]/1k/2r/1c/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_14__1?/[12|2]/1k/2r/1c/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_16__1?/[12|2]/1k/2r/1c/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_15__1?/[12|2]/1k/2r/1c/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_11__1?/[12|2]/1k/2r/1c/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_13__1?/[12|2]/1k/2r/1c/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_12__1?/[12|2]/1k/2r/1c/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_7__1?/[12|2]/1k/2k/3/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_9__1?/[12|2]/1k/2k/3/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_8__1?/[12|2]/1k/2k/3/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_4__1?/[12|2]/1k/2k/2/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_6__1?/[12|2]/1k/2k/2/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_5__1?/[12|2]/1k/2k/2/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl1_1__1?/[12|2]/1k/2k/1/[12|4]", "actions": ["k", "r"]}
+{"decision_point": "pl1_3__1?/[12|2]/1k/2k/1/[12|4]/1r/2r", "actions": ["c", "f"]}
+{"decision_point": "pl1_2__1?/[12|2]/1k/2k/1/[12|4]/1k/2r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_125__?3/[12|2]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_140__?3/[12|2]/1r/2r/1c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_138__?3/[12|2]/1r/2r/1c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_139__?3/[12|2]/1r/2r/1c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_137__?3/[12|2]/1r/2r/1c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_135__?3/[12|2]/1r/2r/1c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_136__?3/[12|2]/1r/2r/1c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_131__?3/[12|2]/1r/2c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_129__?3/[12|2]/1r/2c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_130__?3/[12|2]/1r/2c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_128__?3/[12|2]/1r/2c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_126__?3/[12|2]/1r/2c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_127__?3/[12|2]/1r/2c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_96__?3/[12|2]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_115__?3/[12|2]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_121__?3/[12|2]/1k/2r/1r/2c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_119__?3/[12|2]/1k/2r/1r/2c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_120__?3/[12|2]/1k/2r/1r/2c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_118__?3/[12|2]/1k/2r/1r/2c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_116__?3/[12|2]/1k/2r/1r/2c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_117__?3/[12|2]/1k/2r/1r/2c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_111__?3/[12|2]/1k/2r/1c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_109__?3/[12|2]/1k/2r/1c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_110__?3/[12|2]/1k/2r/1c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_108__?3/[12|2]/1k/2r/1c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_106__?3/[12|2]/1k/2r/1c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_107__?3/[12|2]/1k/2r/1c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_102__?3/[12|2]/1k/2k/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_100__?3/[12|2]/1k/2k/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_101__?3/[12|2]/1k/2k/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_99__?3/[12|2]/1k/2k/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_97__?3/[12|2]/1k/2k/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_98__?3/[12|2]/1k/2k/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_77__?2/[12|2]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_95__?2/[12|2]/1r/2r/1c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_93__?2/[12|2]/1r/2r/1c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_94__?2/[12|2]/1r/2r/1c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_92__?2/[12|2]/1r/2r/1c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_90__?2/[12|2]/1r/2r/1c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_91__?2/[12|2]/1r/2r/1c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_89__?2/[12|2]/1r/2r/1c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_87__?2/[12|2]/1r/2r/1c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_88__?2/[12|2]/1r/2r/1c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_86__?2/[12|2]/1r/2c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_84__?2/[12|2]/1r/2c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_85__?2/[12|2]/1r/2c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_83__?2/[12|2]/1r/2c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_81__?2/[12|2]/1r/2c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_82__?2/[12|2]/1r/2c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_80__?2/[12|2]/1r/2c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_78__?2/[12|2]/1r/2c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_79__?2/[12|2]/1r/2c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_48__?2/[12|2]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_67__?2/[12|2]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_76__?2/[12|2]/1k/2r/1r/2c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_74__?2/[12|2]/1k/2r/1r/2c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_75__?2/[12|2]/1k/2r/1r/2c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_73__?2/[12|2]/1k/2r/1r/2c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_71__?2/[12|2]/1k/2r/1r/2c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_72__?2/[12|2]/1k/2r/1r/2c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_70__?2/[12|2]/1k/2r/1r/2c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_68__?2/[12|2]/1k/2r/1r/2c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_69__?2/[12|2]/1k/2r/1r/2c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_66__?2/[12|2]/1k/2r/1c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_64__?2/[12|2]/1k/2r/1c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_65__?2/[12|2]/1k/2r/1c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_63__?2/[12|2]/1k/2r/1c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_61__?2/[12|2]/1k/2r/1c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_62__?2/[12|2]/1k/2r/1c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_60__?2/[12|2]/1k/2r/1c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_58__?2/[12|2]/1k/2r/1c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_59__?2/[12|2]/1k/2r/1c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_57__?2/[12|2]/1k/2k/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_55__?2/[12|2]/1k/2k/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_56__?2/[12|2]/1k/2k/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_54__?2/[12|2]/1k/2k/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_52__?2/[12|2]/1k/2k/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_53__?2/[12|2]/1k/2k/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_51__?2/[12|2]/1k/2k/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_49__?2/[12|2]/1k/2k/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_50__?2/[12|2]/1k/2k/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_29__?1/[12|2]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_47__?1/[12|2]/1r/2r/1c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_45__?1/[12|2]/1r/2r/1c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_46__?1/[12|2]/1r/2r/1c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_44__?1/[12|2]/1r/2r/1c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_42__?1/[12|2]/1r/2r/1c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_43__?1/[12|2]/1r/2r/1c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_41__?1/[12|2]/1r/2r/1c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_39__?1/[12|2]/1r/2r/1c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_40__?1/[12|2]/1r/2r/1c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_38__?1/[12|2]/1r/2c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_36__?1/[12|2]/1r/2c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_37__?1/[12|2]/1r/2c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_35__?1/[12|2]/1r/2c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_33__?1/[12|2]/1r/2c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_34__?1/[12|2]/1r/2c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_32__?1/[12|2]/1r/2c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_30__?1/[12|2]/1r/2c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_31__?1/[12|2]/1r/2c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_0__?1/[12|2]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_19__?1/[12|2]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_28__?1/[12|2]/1k/2r/1r/2c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_26__?1/[12|2]/1k/2r/1r/2c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_27__?1/[12|2]/1k/2r/1r/2c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_25__?1/[12|2]/1k/2r/1r/2c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_23__?1/[12|2]/1k/2r/1r/2c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_24__?1/[12|2]/1k/2r/1r/2c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_22__?1/[12|2]/1k/2r/1r/2c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_20__?1/[12|2]/1k/2r/1r/2c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_21__?1/[12|2]/1k/2r/1r/2c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_18__?1/[12|2]/1k/2r/1c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_16__?1/[12|2]/1k/2r/1c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_17__?1/[12|2]/1k/2r/1c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_15__?1/[12|2]/1k/2r/1c/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_13__?1/[12|2]/1k/2r/1c/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_14__?1/[12|2]/1k/2r/1c/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_12__?1/[12|2]/1k/2r/1c/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_10__?1/[12|2]/1k/2r/1c/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_11__?1/[12|2]/1k/2r/1c/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_9__?1/[12|2]/1k/2k/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_7__?1/[12|2]/1k/2k/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_8__?1/[12|2]/1k/2k/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_6__?1/[12|2]/1k/2k/2/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_4__?1/[12|2]/1k/2k/2/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_5__?1/[12|2]/1k/2k/2/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_3__?1/[12|2]/1k/2k/1/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_1__?1/[12|2]/1k/2k/1/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_2__?1/[12|2]/1k/2k/1/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_143__?3/[12|2]/1r/2r/1c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_141__?3/[12|2]/1r/2r/1c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_142__?3/[12|2]/1r/2r/1c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_134__?3/[12|2]/1r/2c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_132__?3/[12|2]/1r/2c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_133__?3/[12|2]/1r/2c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_124__?3/[12|2]/1k/2r/1r/2c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_122__?3/[12|2]/1k/2r/1r/2c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_123__?3/[12|2]/1k/2r/1r/2c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_114__?3/[12|2]/1k/2r/1c/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_112__?3/[12|2]/1k/2r/1c/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_113__?3/[12|2]/1k/2r/1c/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}
+{"decision_point": "pl2_105__?3/[12|2]/1k/2k/3/[12|4]/1r", "actions": ["c", "f", "r"]}
+{"decision_point": "pl2_103__?3/[12|2]/1k/2k/3/[12|4]/1k", "actions": ["k", "r"]}
+{"decision_point": "pl2_104__?3/[12|2]/1k/2k/3/[12|4]/1k/2r/1r", "actions": ["c", "f"]}

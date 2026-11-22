@@ -1,0 +1,12 @@
+{"decision_point": "pl1_4__3?/", "actions": ["k", "b"]}
+{"decision_point": "pl1_5__3?/1:k/2:b", "actions": ["c", "f"]}
+{"decision_point": "pl1_2__2?/", "actions": ["k", "b"]}
+{"decision_point": "pl1_3__2?/1:k/2:b", "actions": ["c", "f"]}
+{"decision_point": "pl1_0__1?/", "actions": ["k", "b"]}
+{"decision_point": "pl1_1__1?/1:k/2:b", "actions": ["c", "f"]}
+{"decision_point": "pl2_2__?2/1:b", "actions": ["c", "f"]}
+{"decision_point": "pl2_3__?2/1:k", "actions": ["k", "b"]}
+{"decision_point": "pl2_0__?1/1:b", "actions": ["c", "f"]}
+{"decision_point": "pl2_1__?1/1:k", "actions": ["k", "b"]}
+{"decision_point": "pl2_4__?3/1:b", "actions": ["c", "f"]}
+{"decision_point": "pl2_5__?3/1:k", "actions": ["k", "b"]}

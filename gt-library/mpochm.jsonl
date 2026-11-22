@@ -1,0 +1,5 @@
+{"decision_point": [0, 17], "actions": ["[HEAD]", "[TAIL]"]}
+{"decision_point": [2, 17], "actions": ["[GIVEN]", "[NOT_GIVEN]"]}
+{"decision_point": [1, 17], "actions": ["[GIVEN]", "[NOT_GIVEN]"]}
+{"decision_point": [0, 3447650], "actions": ["[HEAD]", "[TAIL]"]}
+{"decision_point": [0, 1789550885], "actions": ["[HEAD]", "[TAIL]"]}

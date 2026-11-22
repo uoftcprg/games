@@ -1,0 +1,6 @@
+{"decision_point": "p0:d1", "actions": ["p0a0", "p0a1"]}
+{"decision_point": "p0:d0", "actions": ["p0a0", "p0a1"]}
+{"decision_point": "p1:d1 p0:a1", "actions": ["p1a0", "p1a1"]}
+{"decision_point": "p1:d1 p0:a0", "actions": ["p1a0", "p1a1"]}
+{"decision_point": "p1:d0 p0:a1", "actions": ["p1a0", "p1a1"]}
+{"decision_point": "p1:d0 p0:a0", "actions": ["p1a0", "p1a1"]}

@@ -1,0 +1,928 @@
+{"decision_point": [0, 578], "actions": ["[Pl0, none, b, reward: 2]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [2, -2134640540], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [4, 1016597481], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [6, -1651671055], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [3, -1118100104], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [2, -2134670362], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [14, -754842005], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [16, -1584240269], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [13, 1405427706], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [2, -2134700184], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [24, 1768685805], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [26, -1516809483], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [23, -366011780], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [2, -2134730006], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [34, -2753681], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [36, -1449378697], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [33, -2137451266], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [2, 1222634307], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 2]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [44, 2042703369], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [46, -446600253], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [49, 1686029070], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [51, 2001348572], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [48, -448668515], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [46, -446630075], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [59, -85410416], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [61, 2068779358], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [58, 2074859295], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [46, -446659897], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [69, -1856849902], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [71, 2136210144], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [68, 303419809], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [46, -446689719], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [79, 666677908], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [81, -2091326366], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [78, -1468019677], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [44, 1702949502], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [89, 666267783], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [91, 1401711891], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [88, -1468429802], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [44, 1702919680], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [99, -1105171703], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [101, 1469142677], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [98, 1055098008], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [44, 1702889858], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [109, 1418356107], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [111, 1536573463], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [108, -716341478], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [44, 1702860036], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [119, -353083379], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [121, 1604004249], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [118, 1807186332], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [43, 1611330681], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [129, -383190720], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [131, -1834357366], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [128, 1777078991], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [43, 1611300859], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [139, 2140337090], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [141, -1766926580], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [138, 5639505], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [43, 1611271037], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [149, 368897604], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [151, -1699495794], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [148, -1765799981], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [43, 1611241215], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [159, -1402541882], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [161, -1632065008], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [158, 757727829], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1, -912122860], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 2]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [169, 668304015], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [172, -1909288936], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [174, -656647132], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [171, 250980775], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [169, 668274193], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [182, 614238874], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [184, -589216346], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [181, -1520458711], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [169, 668244371], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [192, -1157200612], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [194, -521785560], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [191, 1003069099], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [169, 668214549], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [202, 1366327198], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [204, -454354774], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [201, -768370387], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [168, 1605784778], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [212, 1754908945], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [214, 1251765467], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [211, -379788640], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [168, 1605754956], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [222, -16530541], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [224, 1319196253], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [221, 2143739170], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [168, 1605725134], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [232, -1787970027], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [234, 1386627039], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [231, 372299684], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [168, 1605695312], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [242, 735557783], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [244, 1454057825], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [241, -1399139802], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1, 1088326087], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [252, 1618293708], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [254, -1124204972], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [251, -516403877], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1, 1088296265], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [262, -153145778], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [264, -1056774186], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [261, 2007123933], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1, 1088266443], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [272, -1924585264], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [274, -989343400], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [271, 235684447], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1, 1088236621], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [282, 598942546], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [284, -921912614], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [281, -1535755039], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [0, 577], "actions": ["[Pl0, none, b, reward: 2]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [292, 1272823075], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [294, -1481418456], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [296, 1135744432], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [293, 678851255], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [292, 1272793253], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [304, 1042109354], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [306, 1203175218], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [303, -1092588231], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [292, 1272763431], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [314, -729330132], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [316, 1270606004], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [313, 1430939579], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [292, 1272733609], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [324, 1794197678], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [326, 1338036790], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [323, -340499907], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [292, 1221710786], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 2]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [334, -444809464], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [336, -153197246], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [339, 332719373], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [341, 1789997659], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [338, -1801978212], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [336, -153227068], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [349, -1438720113], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [351, 1857428445], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [348, 721549598], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [336, -153256890], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [359, 1084807697], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [361, 1924859231], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [358, -1049889888], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [336, -153286712], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [369, -686631789], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [371, 1992290017], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [368, 1473637922], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [334, -795066435], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [379, -841284026], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [381, -2048783534], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [378, 1318985685], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [334, -795096257], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [389, 1682243784], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [391, -1981352748], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [388, -452453801], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [334, -795126079], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [399, -89195702], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [401, -1913921962], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [398, 2071074009], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [334, -795155901], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [409, -1860635188], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [411, -1846491176], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [408, 299634523], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [333, -876182152], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [419, -89787713], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [421, 1107300233], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [418, 2070481998], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [333, -876211974], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [429, -1861227199], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [431, 1174731019], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [428, 299042512], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [333, -876241796], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [439, 662300611], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [441, 1242161805], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [438, -1472396974], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [333, -876271618], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [449, -1109138875], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [451, 1309592591], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [448, 1051130836], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [291, -913046381], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 2]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [459, -1829711922], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [462, 878126551], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [464, 187824739], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [461, -1256571034], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [459, -1829741744], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [472, -893312935], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [474, 255255525], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [471, 1266956776], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [459, -1829771566], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [482, 1630214875], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [484, 322686311], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [481, -504482710], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [459, -1829801388], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [492, -141224611], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [494, 390117097], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [491, 2019045100], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [458, -881728055], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [502, 2048311952], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [504, -101544230], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [501, -86385633], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [458, -881757877], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [512, 276872466], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [514, -34113444], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [511, -1857825119], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [458, -881787699], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [522, -1494567020], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [524, 33317342], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [521, 665702691], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [458, -881817521], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [532, 1028960790], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [534, 100748128], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [531, -1105736795], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [291, 200822406], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [542, -879722229], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [544, 1663210515], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [541, 1280547482], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [291, 200792584], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [552, 1643805581], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [554, 1730641301], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [551, -490892004], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [291, 200762762], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [562, -127633905], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [564, 1798072087], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [561, 2032635806], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [291, 200732940], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [572, -1899073391], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [574, 1865502873], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [571, 261196320], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [0, 576], "actions": ["[Pl0, none, b, reward: 2]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [582, 385319394], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [584, 315532903], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [586, -371807377], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [583, -1819164682], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [582, 385289572], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [594, -1455906583], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [596, -304376591], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [593, 704363128], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [582, 385259750], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [604, 1067621227], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [606, -236945805], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [603, -1067076358], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [582, 385229928], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [614, -703818259], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [616, -169515019], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [613, 1456451452], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [582, 1220787265], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 2]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [624, 1362644999], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [626, 140205761], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [629, -1020590324], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [631, 1578646746], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [628, 1139679387], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [626, 140175939], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [639, 1502937486], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [641, 1646077532], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [638, -631760099], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [626, 140146117], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [649, -268502000], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [651, 1713508318], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [648, 1891767711], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [626, 140116295], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [659, -2039941486], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [661, 1780939104], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [658, 120328225], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [624, 1001884924], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [669, 1946131461], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [671, -1204311663], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [668, -188566124], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [624, 1001855102], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [679, 174691975], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [681, -1136880877], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [678, -1960005610], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [624, 1001825280], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [689, -1596747511], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [691, -1069450091], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [688, 563522200], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [624, 1001795458], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [699, 926780299], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [701, -1002019305], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [698, -1207917286], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [623, 931272311], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [709, 203615294], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [711, -246009464], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [708, -1931082291], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [623, 931242489], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [719, -1567824192], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [721, -178578678], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [718, 592445519], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [623, 931212667], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [729, 955703618], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [731, -111147892], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [728, -1178993967], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [623, 931182845], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [739, -815735868], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [741, -43717106], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [738, 1344533843], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [581, -913969902], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 2]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [749, -32760563], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [752, -629425258], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [754, 1032296610], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [751, 1530844453], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [749, -32790385], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [762, 1894102552], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [764, 1099727396], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [761, -240595033], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [749, -32820207], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [772, 122663066], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [774, 1167158182], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [771, -2012034519], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [749, -32850029], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [782, -1648776420], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [784, 1234588968], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [781, 511493291], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [748, 925726408], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [792, -1953252337], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [794, -1454853927], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [791, 207017374], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [748, 925696586], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [802, 570275473], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [804, -1387423141], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [801, -1564422112], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [748, 925666764], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [812, -1201164013], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [814, -1319992355], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [811, 959105698], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [748, 925636942], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [822, 1322363797], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [824, -1252561569], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [821, -812333788], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [581, -686681275], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [832, 917229130], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [834, 155658706], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [831, -1217468455], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [581, -686711097], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [842, -854210356], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [844, 223089492], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [841, 1306059355], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [581, -686740919], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [852, 1669317454], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [854, 290520278], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [851, -465380131], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [581, -686770741], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [862, -102122032], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [864, 357951064], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [861, 2058147679], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [0, 575], "actions": ["[Pl0, none, b, reward: 2]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [872, -502184287], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [874, 2112484262], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [876, -1879359186], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [873, -22213323], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [872, -502214109], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [884, 341044776], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [886, -1811928400], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [883, -1793652809], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [872, -502243931], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [894, -1430394710], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [896, -1744497614], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [893, 729875001], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [872, -502273753], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [904, 1093133100], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [906, -1677066828], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [903, -1041564485], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [872, 1219863744], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 2]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [914, -1124867834], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [916, 433608768], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [919, 1921067275], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [921, 1367295833], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [918, -213630310], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [916, 433578946], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [929, 149627789], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [931, 1434726619], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [928, -1985069796], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [916, 433549124], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [939, -1621811697], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [941, 1502157405], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [938, 538458014], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [916, 433519302], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [949, 901716113], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [951, 1569588191], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [948, -1232981472], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [914, -1496131013], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [959, 438579652], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [961, -359839792], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [958, -1696117933], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [914, -1496160835], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [969, -1332859834], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [971, -292409006], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [968, 827409877], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [914, -1496190657], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [979, 1190667976], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [981, -224978220], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [978, -944029609], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [914, -1496220479], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [989, -580771510], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [991, -157547434], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [988, 1579498201], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [913, -1556240522], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [999, 497018301], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1001, -1599319161], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [998, -1637679284], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [913, -1556270344], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1009, -1274421185], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1011, -1531888375], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1008, 885848526], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [913, -1556300166], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1019, 1249106625], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1021, -1464457589], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1018, -885590960], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [913, -1556329988], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1029, -522332861], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1031, -1397026803], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1028, 1637936850], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [871, -914893423], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 2]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1039, 1764190796], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1042, -2136977067], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1044, 1876768481], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1041, 23292644], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1039, 1764160974], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1052, 386550743], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1054, 1944199267], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1051, -1748146842], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1039, 1764131152], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1062, -1384888743], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1064, 2011630053], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1061, 775380968], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1039, 1764101330], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1072, 1138639067], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1074, 2079060839], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1071, -996058518], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1038, -1561786425], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1082, -1659849330], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1084, 1486803672], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1081, 500420381], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1038, -1561816247], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1092, 863678480], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1094, 1554234458], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1091, -1271019105], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1038, -1561846069], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1102, -907761006], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1104, 1621665244], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1101, 1252508705], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1038, -1561875891], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1112, 1615766804], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1114, 1689096030], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1111, -518930781], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [871, -1574184956], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1122, -1580786807], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1124, -1351893103], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1121, 579482904], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [871, -1574214778], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1132, 942741003], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1134, -1284462317], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1131, -1191956582], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [871, -1574244600], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1142, -828698483], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1144, -1217031531], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1141, 1331571228], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [871, -1574274422], "actions": ["[Pl0, none, b, reward: 4]", "[Pl0, none, ch, reward: 0]"]}
+{"decision_point": [1152, 1694829327], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1154, -1149600745], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [1151, -439868258], "actions": ["[Pl0, none, c, reward: 0]", "[Pl0, none, r, reward: 4]", "[Pl0, none, f, reward: 0]"]}
+{"decision_point": [0, 1988123953], "actions": ["[Pl1, none, b, reward: 2]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [2, -702590250], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [3, -405926292], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [2, -794197451], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [9, 1144062011], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [2, -731249192], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [13, -1952223122], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [2, -822856393], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [19, -402234819], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [2, -759908134], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [23, 796447344], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [2, -851515335], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [29, -1948531649], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [2, -788567076], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [33, -749849486], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [2, -880174277], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [39, 800138817], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1, 26967813], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 2]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [44, -1993512328], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [46, -1327263660], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [44, -2085119529], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [52, 222724643], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [44, -2022171270], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [56, 1421406806], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [44, -2113778471], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [62, -1323572187], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [44, -2050830212], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [66, -124890024], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [44, -2142437413], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [72, 1425098279], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [44, -2079489154], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [76, -1671186854], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [44, 2123870941], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [82, -121198551], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [43, 2139500146], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [86, -2065316980], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [43, 2047892945], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [92, -515328677], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [43, 2110841204], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [96, 683353486], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [43, 2019234003], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [102, -2061625507], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [43, 2082182262], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [106, -862943344], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [43, 1990575061], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [112, 687044959], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [43, 2053523320], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [116, 1885727122], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [43, 1961916119], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [122, -859251871], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1, -6840916], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [126, -1277623804], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1, -98448117], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [132, 272364499], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1, -35499858], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [136, 1471046662], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1, -127107059], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [142, -1273932331], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1, -64158800], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [146, -75250168], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1, -155766001], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [152, 1474738135], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1, -92817742], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [156, -1621546998], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1, -184424943], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [162, -71558695], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [0, 1896516690], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 2]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [167, 1519697814], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [169, -17367485], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [171, 1020805853], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [169, -108974686], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [177, -1724173140], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [169, -46026427], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [181, -525490977], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [169, -137633628], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [187, 1024497326], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [169, -74685369], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [191, -2071787807], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [169, -166292570], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [197, -521799504], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [169, -103344311], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [201, 676882659], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [169, -194951512], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [207, -2068096334], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [167, -1041486403], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [211, 441786773], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [167, -1133093604], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [217, 1991775076], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [167, -1070145345], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [221, -1104510057], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [167, -1161752546], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [227, 445478246], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [167, -1098804287], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [231, 1644160409], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [167, -1190411488], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [237, -1100818584], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [167, -1127463229], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [241, 97863579], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [167, -1219070430], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [247, 1647851882], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [166, -103082119], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [251, -1996437105], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [166, -194689320], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [257, -446448802], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [166, -131741061], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [261, 752233361], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [166, -223348262], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [267, -1992745632], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [166, -160400003], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [271, -794063469], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [166, -252007204], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [277, 755924834], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [166, -189058945], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [281, 1954606997], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [166, -280666146], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [287, -790371996], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [0, 1988122992], "actions": ["[Pl1, none, b, reward: 2]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [292, 1104864213], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [293, -112523285], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [292, 1013257012], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [299, 1437465018], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [292, 1076205271], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [303, -1658820115], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [292, 984598070], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [309, -108831812], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [292, 1047546329], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [313, 1089850351], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [292, 955939128], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [319, -1655128642], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [292, 1018887387], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [323, -456446479], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [292, 927280186], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [329, 1093541824], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [291, -860535868], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 2]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [334, 793903159], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [336, -482791789], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [334, 702295958], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [342, 1067196514], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [334, 765244217], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [346, -2029088619], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [334, 673637016], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [352, -479100316], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [334, 736585275], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [356, 719581847], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [334, 644978074], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [362, -2025397146], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [334, 707926333], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [366, -826714983], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [334, 616319132], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [372, 723273320], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [333, -1862064143], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [376, 876340619], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [333, -1953671344], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [382, -1868638374], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [333, -1890723085], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [386, -669956211], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [333, -1982330286], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [392, 880032092], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [333, -1919382027], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [396, 2078714255], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [333, -2010989228], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [402, -666264738], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [333, -1948040969], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [406, 532417425], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [333, -2039648170], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [412, 2082405728], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [291, 1790110443], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [416, 1509791683], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [291, 1698503242], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [422, -1235187310], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [291, 1761451501], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [426, -36505147], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [291, 1669844300], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [432, 1513483156], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [291, 1732792559], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [436, -1582801977], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [291, 1641185358], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [442, -32813674], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [291, 1704133617], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [446, 1165868489], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [291, 1612526416], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [452, -1579110504], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [0, 1896515729], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 2]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [457, 632194133], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [459, 276035522], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [461, -332503844], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [459, 184428321], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [467, 1217484459], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [459, 247376580], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [471, -1878800674], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [459, 155769379], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [477, -328812371], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [459, 218717638], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [481, 869869792], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [459, 127110437], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [487, -1875109201], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [459, 190058696], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [491, -676427038], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [459, 98451495], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [497, 873561265], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [457, 755464956], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [501, -1065765036], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [457, 663857755], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [507, 484223267], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [457, 726806014], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [511, 1682905430], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [457, 635198813], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [517, -1062073563], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [457, 698147072], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [521, 136608600], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [457, 606539871], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [527, 1686596903], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [457, 669488130], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [531, -1409688230], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [457, 577880929], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [537, 140300073], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [456, 1704372344], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [541, -1703034098], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [456, 1612765143], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [547, -153045795], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [456, 1675713402], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [551, 1045636368], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [456, 1584106201], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [557, -1699342625], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [456, 1647054460], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [561, -500660462], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [456, 1555447259], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [567, 1049327841], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [456, 1618395518], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [571, -2046957292], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [456, 1526788317], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [577, -496968989], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [0, 1988122031], "actions": ["[Pl1, none, b, reward: 2]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [582, -1382648620], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [583, 180879722], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [582, -1474255821], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [589, 1730868025], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [582, -1411307562], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [593, -1365417108], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [582, -1502914763], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [599, 184571195], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [582, -1439966504], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [603, 1383253358], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [582, -1531573705], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [609, -1361725635], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [582, -1468625446], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [613, -163043472], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [582, -1560232647], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [619, 1386944831], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [581, -1748039549], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 2]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [624, -713648650], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [626, 361680082], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [624, -805255851], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [632, 1911668385], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [624, -742307592], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [636, -1184616748], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [624, -833914793], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [642, 365371555], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [624, -770966534], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [646, 1564053718], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [624, -862573735], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [652, -1180925275], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [624, -799625476], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [656, 17756888], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [624, -891232677], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [662, 1567745191], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [623, -1568661136], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [666, -476969078], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [623, -1660268337], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [672, 1073019225], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [623, -1597320078], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [676, -2023265908], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [623, -1688927279], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [682, -473277605], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [623, -1625979020], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [686, 725404558], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [623, -1717586221], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [692, -2019574435], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [623, -1654637962], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [696, -820892272], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [623, -1746245163], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [702, 729096031], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [581, -707905494], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [706, 2239874], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [581, -799512695], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [712, 1552228177], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [581, -736564436], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [716, -1544056956], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [581, -828171637], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [722, 5931347], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [581, -765223378], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [726, 1204613510], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [581, -856830579], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [732, -1540365483], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [581, -793882320], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [736, -341683320], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [581, -885489521], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [742, 1208304983], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [0, 1896514768], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 2]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [747, -255309548], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [749, 569438529], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [751, -1685813541], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [749, 477831328], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [757, -135825238], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [749, 540779587], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [761, 1062856925], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [749, 449172386], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [767, -1682122068], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [749, 512120645], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [771, -483439905], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [749, 420513444], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [777, 1066548398], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [749, 483461703], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [781, -2029736735], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [749, 391854502], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [787, -479748432], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [747, -1742550981], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [791, 1721650451], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [747, -1834158182], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [797, -1023328542], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [747, -1771209923], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [801, 175353621], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [747, -1862817124], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [807, 1725341924], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [747, -1799868865], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [811, -1370943209], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [747, -1891476066], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [817, 179045094], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [747, -1828527807], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [821, 1377727257], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [747, -1920135008], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [827, -1367251736], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [746, -783140489], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [831, -1409631091], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [746, -874747690], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [837, 140357212], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [746, -811799431], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [841, 1339039375], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [746, -903406632], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [847, -1405939618], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [746, -840458373], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [851, -207257455], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [746, -932065574], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [857, 1342730848], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [746, -869117315], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [861, -1753554285], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [746, -960724516], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [867, -203565982], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [0, 1988121070], "actions": ["[Pl1, none, b, reward: 2]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [872, 424805843], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [873, 474282729], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [872, 333198642], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [879, 2024271032], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [872, 396146901], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [883, -1072014101], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [872, 304539700], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [889, 477974202], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [872, 367487959], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [893, 1676656365], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [872, 275880758], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [899, -1068322628], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [872, 338829017], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [903, 130359535], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [872, 247221816], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [909, 1680347838], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [871, 1659424066], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 2]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [914, 2073766837], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [916, 1206151953], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [914, 1982159636], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [922, -1538827040], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [914, 2045107895], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [926, -340144877], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [914, 1953500694], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [932, 1209843426], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [914, 2016448953], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [936, -1886441707], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [914, 1924841752], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [942, -336453404], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [914, 1987790011], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [946, 862228759], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [914, 1896182810], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [952, -1882750234], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [913, -1275258129], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [956, -1830278775], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [913, -1366865330], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [962, -280290472], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [913, -1303917071], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [966, 918391691], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [913, -1395524272], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [972, -1826587302], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [913, -1332576013], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [976, -627905139], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [913, -1424183214], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [982, 922083164], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [913, -1361234955], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [986, 2120765327], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [913, -1452842156], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [992, -624213666], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [871, 1089045865], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [996, -1505311935], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [871, 997438664], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1002, 44676368], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [871, 1060386923], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1006, 1243358531], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [871, 968779722], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1012, -1501620462], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [871, 1031727981], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1016, -302938299], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [871, 940120780], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1022, 1247050004], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [871, 1003069039], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1026, -1849235129], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [871, 911461838], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1032, -299246826], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [0, 1896513807], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 2]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1037, -1142813229], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1039, 862841536], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1041, 1255844058], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1039, 771234335], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1047, -1489134935], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1039, 834182594], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1051, -290452772], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1039, 742575393], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1057, 1259535531], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1039, 805523652], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1061, -1836749602], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1039, 713916451], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1067, -286761299], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1039, 776864710], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1071, 911920864], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1039, 685257509], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1077, -1833058129], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1037, 54400378], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1081, 214098642], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1037, -37206823], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1087, 1764086945], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1037, 25741436], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1091, -1332198188], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1037, -65865765], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1097, 217790115], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1037, -2917506], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1101, 1416472278], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1037, -94524707], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1107, -1328506715], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1037, -31576448], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1111, -129824552], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1037, -123183649], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1117, 1420163751], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1036, 1024313974], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1121, -1116228084], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1036, 932706773], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1127, 433760219], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1036, 995655032], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1131, 1632442382], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1036, 904047831], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1137, -1112536611], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1036, 966996090], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1141, 86145552], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1036, 875388889], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1147, 1636133855], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1036, 938337148], "actions": ["[Pl1, none, b, reward: 4]", "[Pl1, none, ch, reward: 0]"]}
+{"decision_point": [1151, -1460151278], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1036, 846729947], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, r, reward: 4]", "[Pl1, none, f, reward: 0]"]}
+{"decision_point": [1157, 89837025], "actions": ["[Pl1, none, c, reward: 0]", "[Pl1, none, f, reward: 0]"]}

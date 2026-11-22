@@ -1,0 +1,6 @@
+{"decision_point": 0, "actions": ["L", "R"]}
+{"decision_point": 2, "actions": ["U", "V"]}
+{"decision_point": 1, "actions": ["S", "T"]}
+{"decision_point": 0, "actions": ["a", "b"]}
+{"decision_point": 2, "actions": ["e", "f"]}
+{"decision_point": 1, "actions": ["c", "d"]}

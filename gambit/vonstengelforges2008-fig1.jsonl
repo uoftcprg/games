@@ -1,0 +1,4 @@
+{"decision_point": 1, "actions": ["X_B", "X_G"]}
+{"decision_point": 0, "actions": ["X_G", "Y_G"]}
+{"decision_point": 1, "actions": ["l_Y", "r_Y"]}
+{"decision_point": 0, "actions": ["l_X", "r_X"]}

@@ -1,0 +1,5 @@
+{"decision_point": 1, "actions": ["y", "-y"]}
+{"decision_point": 0, "actions": ["x", "-x"]}
+{"decision_point": 2, "actions": ["-x", "-y"]}
+{"decision_point": 1, "actions": ["-x", "y"]}
+{"decision_point": 0, "actions": ["x"]}

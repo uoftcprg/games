@@ -1,0 +1,92 @@
+{"decision_point": [0, 1877373542], "actions": ["[1, Pl0]", "[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [3, 26045087], "actions": ["[1, Pl0]", "[2, Pl0]"]}
+{"decision_point": [5, 808916741], "actions": ["[1, Pl0]"]}
+{"decision_point": [5, 808916710], "actions": ["[1, Pl0]"]}
+{"decision_point": [4, 808915780], "actions": ["[2, Pl0]"]}
+{"decision_point": [4, 808915749], "actions": ["[2, Pl0]"]}
+{"decision_point": [3, 26045056], "actions": ["[1, Pl0]", "[2, Pl0]"]}
+{"decision_point": [11, 807039939], "actions": ["[1, Pl0]"]}
+{"decision_point": [11, 807039877], "actions": ["[1, Pl0]"]}
+{"decision_point": [10, 807038978], "actions": ["[2, Pl0]"]}
+{"decision_point": [10, 807038916], "actions": ["[2, Pl0]"]}
+{"decision_point": [3, 26045025], "actions": ["[1, Pl0]", "[2, Pl0]"]}
+{"decision_point": [17, 805163106], "actions": ["[1, Pl0]"]}
+{"decision_point": [17, 805163075], "actions": ["[1, Pl0]"]}
+{"decision_point": [16, 805162145], "actions": ["[2, Pl0]"]}
+{"decision_point": [16, 805162114], "actions": ["[2, Pl0]"]}
+{"decision_point": [2, 26044126], "actions": ["[1, Pl0]", "[3, Pl0]"]}
+{"decision_point": [23, 750735879], "actions": ["[1, Pl0]"]}
+{"decision_point": [23, 750735848], "actions": ["[1, Pl0]"]}
+{"decision_point": [22, 750733957], "actions": ["[3, Pl0]"]}
+{"decision_point": [22, 750733926], "actions": ["[3, Pl0]"]}
+{"decision_point": [2, 26044095], "actions": ["[1, Pl0]", "[3, Pl0]"]}
+{"decision_point": [29, 748859077], "actions": ["[1, Pl0]"]}
+{"decision_point": [29, 748859015], "actions": ["[1, Pl0]"]}
+{"decision_point": [28, 748857155], "actions": ["[3, Pl0]"]}
+{"decision_point": [28, 748857093], "actions": ["[3, Pl0]"]}
+{"decision_point": [2, 26044064], "actions": ["[1, Pl0]", "[3, Pl0]"]}
+{"decision_point": [35, 746982244], "actions": ["[1, Pl0]"]}
+{"decision_point": [35, 746982213], "actions": ["[1, Pl0]"]}
+{"decision_point": [34, 746980322], "actions": ["[3, Pl0]"]}
+{"decision_point": [34, 746980291], "actions": ["[3, Pl0]"]}
+{"decision_point": [1, 26043165], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [41, 692554056], "actions": ["[2, Pl0]"]}
+{"decision_point": [41, 692554025], "actions": ["[2, Pl0]"]}
+{"decision_point": [40, 692553095], "actions": ["[3, Pl0]"]}
+{"decision_point": [40, 692553064], "actions": ["[3, Pl0]"]}
+{"decision_point": [1, 26043134], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [47, 690677254], "actions": ["[2, Pl0]"]}
+{"decision_point": [47, 690677192], "actions": ["[2, Pl0]"]}
+{"decision_point": [46, 690676293], "actions": ["[3, Pl0]"]}
+{"decision_point": [46, 690676231], "actions": ["[3, Pl0]"]}
+{"decision_point": [1, 26043103], "actions": ["[2, Pl0]", "[3, Pl0]"]}
+{"decision_point": [53, 688800421], "actions": ["[2, Pl0]"]}
+{"decision_point": [53, 688800390], "actions": ["[2, Pl0]"]}
+{"decision_point": [52, 688799460], "actions": ["[3, Pl0]"]}
+{"decision_point": [52, 688799429], "actions": ["[3, Pl0]"]}
+{"decision_point": [0, 1877373542], "actions": ["[1, Pl1]", "[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [3, 26045087], "actions": ["[1, Pl1]", "[2, Pl1]"]}
+{"decision_point": [5, 808916741], "actions": ["[1, Pl1]"]}
+{"decision_point": [4, 808916710], "actions": ["[2, Pl1]"]}
+{"decision_point": [5, 808915780], "actions": ["[1, Pl1]"]}
+{"decision_point": [4, 808915749], "actions": ["[2, Pl1]"]}
+{"decision_point": [2, 26045056], "actions": ["[1, Pl1]", "[3, Pl1]"]}
+{"decision_point": [11, 807039939], "actions": ["[1, Pl1]"]}
+{"decision_point": [10, 807039877], "actions": ["[3, Pl1]"]}
+{"decision_point": [11, 807038978], "actions": ["[1, Pl1]"]}
+{"decision_point": [10, 807038916], "actions": ["[3, Pl1]"]}
+{"decision_point": [1, 26045025], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [17, 805163106], "actions": ["[2, Pl1]"]}
+{"decision_point": [16, 805163075], "actions": ["[3, Pl1]"]}
+{"decision_point": [17, 805162145], "actions": ["[2, Pl1]"]}
+{"decision_point": [16, 805162114], "actions": ["[3, Pl1]"]}
+{"decision_point": [3, 26044126], "actions": ["[1, Pl1]", "[2, Pl1]"]}
+{"decision_point": [23, 750735879], "actions": ["[1, Pl1]"]}
+{"decision_point": [22, 750735848], "actions": ["[2, Pl1]"]}
+{"decision_point": [23, 750733957], "actions": ["[1, Pl1]"]}
+{"decision_point": [22, 750733926], "actions": ["[2, Pl1]"]}
+{"decision_point": [2, 26044095], "actions": ["[1, Pl1]", "[3, Pl1]"]}
+{"decision_point": [29, 748859077], "actions": ["[1, Pl1]"]}
+{"decision_point": [28, 748859015], "actions": ["[3, Pl1]"]}
+{"decision_point": [29, 748857155], "actions": ["[1, Pl1]"]}
+{"decision_point": [28, 748857093], "actions": ["[3, Pl1]"]}
+{"decision_point": [1, 26044064], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [35, 746982244], "actions": ["[2, Pl1]"]}
+{"decision_point": [34, 746982213], "actions": ["[3, Pl1]"]}
+{"decision_point": [35, 746980322], "actions": ["[2, Pl1]"]}
+{"decision_point": [34, 746980291], "actions": ["[3, Pl1]"]}
+{"decision_point": [3, 26043165], "actions": ["[1, Pl1]", "[2, Pl1]"]}
+{"decision_point": [41, 692554056], "actions": ["[1, Pl1]"]}
+{"decision_point": [40, 692554025], "actions": ["[2, Pl1]"]}
+{"decision_point": [41, 692553095], "actions": ["[1, Pl1]"]}
+{"decision_point": [40, 692553064], "actions": ["[2, Pl1]"]}
+{"decision_point": [2, 26043134], "actions": ["[1, Pl1]", "[3, Pl1]"]}
+{"decision_point": [47, 690677254], "actions": ["[1, Pl1]"]}
+{"decision_point": [46, 690677192], "actions": ["[3, Pl1]"]}
+{"decision_point": [47, 690676293], "actions": ["[1, Pl1]"]}
+{"decision_point": [46, 690676231], "actions": ["[3, Pl1]"]}
+{"decision_point": [1, 26043103], "actions": ["[2, Pl1]", "[3, Pl1]"]}
+{"decision_point": [53, 688800421], "actions": ["[2, Pl1]"]}
+{"decision_point": [52, 688800390], "actions": ["[3, Pl1]"]}
+{"decision_point": [53, 688799460], "actions": ["[2, Pl1]"]}
+{"decision_point": [52, 688799429], "actions": ["[3, Pl1]"]}

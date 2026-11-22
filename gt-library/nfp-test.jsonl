@@ -1,0 +1,4 @@
+{"decision_point": [0, 294895776], "actions": ["P1: U", "P1: D"]}
+{"decision_point": [1, 299250253], "actions": ["P1: L'", "P1: R'"]}
+{"decision_point": [1, 299250780], "actions": ["P1: L", "P1: R"]}
+{"decision_point": [0, 299245262], "actions": ["P2: u", "P2: d"]}
