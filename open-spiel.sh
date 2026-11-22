@@ -118,6 +118,7 @@ declare -A games=(
 	["tiny-hanabi-d"]="tiny_hanabi(num_chance=2,num_actions=2,payoff=3;0;1;3;3;0;3;0;3;2;0;2;0;1;0;0)"
 	["tiny-hanabi-f"]="tiny_hanabi(num_chance=3,num_actions=2,payoff=0;3;3;2;0;0;0;1;3;1;2;1;0;2;0;1;1;2;1;2;0;1;0;3;1;3;1;2;0;3;2;2;3;1;3;0)"
 	["tiny-hanabi"]="tiny_hanabi"
+	["trade-comm-12"]="trade_comm(num_items=12)"
 	["trade-comm-3"]="trade_comm(num_items=3)"
 	["trade-comm"]="trade_comm"
 )
@@ -131,11 +132,10 @@ games=(
 	["libratus-endgames/subgame2"]="$(<LibratusEndgames/open-spiel-subgame2.txt)"
 	["libratus-endgames/subgame3"]="$(<LibratusEndgames/open-spiel-subgame3.txt)"
 	["libratus-endgames/subgame4"]="$(<LibratusEndgames/open-spiel-subgame4.txt)"
-	["trade-comm-12"]="trade_comm(num_items=12)"
 )
 
 for name in ${!games[@]}; do
-	./open-spiel.py --prune --stream "${games[$name]}" open-spiel/$name.jsonl > open-spiel/$name.efg
+	./open-spiel.py --prune "${games[$name]}" open-spiel/$name.jsonl > open-spiel/$name.efg
 done
 
 games=(

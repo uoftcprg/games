@@ -247,9 +247,9 @@ b948a02177525fae768a77784ecdadfb7eba621e7b0b51ea26e5327da9815080  2p0s-efg-npz/o
 42e61594670e50320fd3fe536f6ec609e87628645dae19e91933bb9c9aba68fa  2p0s-efg-npz/open-spiel/liars-dice.sfps.npz
 c48d94a8c5268b5d0ab966f7fcbe8ad11b8062184fbdd84ae151eecb33b111a6  2p0s-efg-npz/open-spiel/liars-dice.us.npz
 6493c172bfd9241b1a0c362ce4867a251b5be0b6d6f77f69477491bb8beb7aab  2p0s-efg-npz/open-spiel/libratus-endgames/subgame1.sfps.npz
-04c9d7d6dc01326689526211075340c7344d79b33424e743474e3d780a797b63  2p0s-efg-npz/open-spiel/libratus-endgames/subgame1.us.npz
+319d0d3871969ccc417371ef7b1c5b14a798be3e32524d2c94067a0a71d81130  2p0s-efg-npz/open-spiel/libratus-endgames/subgame1.us.npz
 47996b3310c81e36b1e7582d55bccb3e79919de0f66994a2ad5c0a27e7205875  2p0s-efg-npz/open-spiel/libratus-endgames/subgame2.sfps.npz
-171100cab85fc85e9d5e2705a5ad010cfb563542f539119a7603dfe21676548f  2p0s-efg-npz/open-spiel/libratus-endgames/subgame2.us.npz
+665cec3cbfb4e6d97677a7bb5ad41b8c9ea0ee058080dbd5dd436f4f4aecb918  2p0s-efg-npz/open-spiel/libratus-endgames/subgame2.us.npz
 07ed49eea20d2f98408fc459d1b552febf9d40be100b6f515cfc2b8a0634d620  2p0s-efg-npz/open-spiel/libratus-endgames/subgame3.sfps.npz
 f0c97cfc0e4efb5f55fb1e67240e4428d70c8edb35d3a1ae906881d63f6b13c4  2p0s-efg-npz/open-spiel/libratus-endgames/subgame3.us.npz
 7c0df935b166faf550ea3dcd301a20af4d8b99c745f0fc7d3f71d8e1a32cca78  2p0s-efg-npz/open-spiel/libratus-endgames/subgame4.sfps.npz
@@ -691,9 +691,9 @@ f3f56fe551466851f62ec85f9c4a9ae1b8d5161256f962507523e93b904259a4  open-spiel/lia
 f08366fc116c241be366b128b20ce6aa177fd36b5c5831335830124105ad33cc  open-spiel/liars-dice-2-5.jsonl
 268bb6a9538ea955dd0047bdd0b12a4f07a3d03e0a6cd1b5d8b666c53bd4bb85  open-spiel/liars-dice.efg
 7dca28a0d77ec81bb5eadc17fbbc09522186d393dc9649a3e38ecb824ab3ec7b  open-spiel/liars-dice.jsonl
-b0c6136c245cb4a083310bfc673c3e97c2ae615b5ce763b0f9593bb303c2c142  open-spiel/libratus-endgames/subgame1.efg
+8a022abc16cd5b0b9846c318b1d17762168d24ac0eca0c8c80863950fcfb3517  open-spiel/libratus-endgames/subgame1.efg
 d637396e24327321bf177aec046ba689f706e01c65a64ff4751e7ba9fd34450a  open-spiel/libratus-endgames/subgame1.jsonl
-f8f3bb3f2350a7ebcc82a09600b9298668b8c6d508ad47f747ac48381f17532f  open-spiel/libratus-endgames/subgame2.efg
+44855570b980180c52daa4479a9b2bfc6418acb67f2fa042c9a92c1edde46307  open-spiel/libratus-endgames/subgame2.efg
 1d2e0c145cba915243d14eb4132a5df43e0bd8e1ea3d27177976ceadfff293a3  open-spiel/libratus-endgames/subgame2.jsonl
 43af4a75f9ee4da54262b2cd0ce230cbd8d33fcc49abccb0556e296cdd33a263  open-spiel/libratus-endgames/subgame3.efg
 04b4c3c333bbfac2c4ed6a3f82463ed807a6e1590d3d19bf49d2f58d4a84e590  open-spiel/libratus-endgames/subgame3.jsonl
