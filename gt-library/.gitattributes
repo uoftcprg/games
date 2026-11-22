@@ -1,7 +1,7 @@
 generic-poker-35-2-1-1.efg filter=lfs diff=lfs merge=lfs -text
 generic-poker-4-3-2-4.efg filter=lfs diff=lfs merge=lfs -text
-ii-oshi-zumo-13-3-1.efg filter=lfs diff=lfs merge=lfs -text
-ii-oshi-zumo-13-3-1.jsonl filter=lfs diff=lfs merge=lfs -text
+imperfect-information-oshi-zumo-13-3-1.efg filter=lfs diff=lfs merge=lfs -text
+imperfect-information-oshi-zumo-13-3-1.jsonl filter=lfs diff=lfs merge=lfs -text
 pursuit-simple-4x4-5.efg filter=lfs diff=lfs merge=lfs -text
 pursuit-simple-4x4-5.jsonl filter=lfs diff=lfs merge=lfs -text
 tron-6x6.efg filter=lfs diff=lfs merge=lfs -text

@@ -3,7 +3,7 @@ declare -A games=(
 	["abrupt-dark-hex-3"]="AbruptDh"
 	["phantom-tic-tac-toe"]="Pttt"
 	["abrupt-phantom-tic-tac-toe"]="AbruptPttt"
-	["corner-dh"]="CornerDh"
+	["corner-dark-hex-3"]="CornerDh"
 )
 
 for name in ${!games[@]}; do

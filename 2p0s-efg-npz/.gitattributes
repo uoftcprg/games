@@ -5,5 +5,5 @@ huflhe/rhode-island-holdem.sfps.npz filter=lfs diff=lfs merge=lfs -text
 huflhe/royal-rhode-island-holdem.us.npz filter=lfs diff=lfs merge=lfs -text
 open-spiel/liars-dice-1-10.us.npz filter=lfs diff=lfs merge=lfs -text
 open-spiel/liars-dice-2-5.us.npz filter=lfs diff=lfs merge=lfs -text
-open-spiel/libratus-endgames/subgame2.us.npz filter=lfs diff=lfs merge=lfs -text
-open-spiel/libratus-endgames/subgame3.us.npz filter=lfs diff=lfs merge=lfs -text
+open-spiel/libratus-endgames-subgame-2.us.npz filter=lfs diff=lfs merge=lfs -text
+open-spiel/libratus-endgames-subgame-3.us.npz filter=lfs diff=lfs merge=lfs -text
