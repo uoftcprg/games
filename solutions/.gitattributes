@@ -1,0 +1,14 @@
+exp-a-spiel/abrupt-dark-hex-3.txt filter=lfs diff=lfs merge=lfs -text
+exp-a-spiel/abrupt-phantom-tic-tac-toe.txt filter=lfs diff=lfs merge=lfs -text
+exp-a-spiel/dark-hex-3.txt filter=lfs diff=lfs merge=lfs -text
+exp-a-spiel/phantom-tic-tac-toe.txt filter=lfs diff=lfs merge=lfs -text
+gt-library/imperfect-information-oshi-zumo-13-3-1.txt filter=lfs diff=lfs merge=lfs -text
+gt-library/tron-6x6.txt filter=lfs diff=lfs merge=lfs -text
+huflhe/royal-rhode-island-holdem.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/battleship-3x2-2-4-4.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/latent-ttt.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/liars-dice-1-10.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/liars-dice-1-9.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/liars-dice-2-5.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/libratus-endgames-subgame-1.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/oshi-zumo-7-2-7.txt filter=lfs diff=lfs merge=lfs -text
