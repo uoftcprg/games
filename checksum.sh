@@ -1,1 +1,1 @@
-find 2p0s-efg-npz 2p0s-nfg-npz blsp2efg exp-a-spiel gambit gt-library huflhe lite-efg matrix open-spiel -type f ! -name .gitignore ! -name .gitattributes | sort | xargs sha256sum > SHA256SUMS
+find 2p0s-efg-npz 2p0s-nfg-npz blsp2efg exp-a-spiel gambit gt-library huflhe lite-efg matrix open-spiel solutions -type f ! -name .gitignore ! -name .gitattributes | sort | xargs sha256sum > SHA256SUMS
